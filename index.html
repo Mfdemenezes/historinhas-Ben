@@ -5,127 +5,79 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Livrinhos do Benjamin</title>
   <link rel="stylesheet" href="assets/style.css" />
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+    .splash {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 32px 16px;
+      text-align: center;
+      gap: 24px;
+    }
+    .splash-img {
+      width: 100%;
+      max-width: 420px;
+      border-radius: 24px;
+      box-shadow: 0 20px 60px rgba(20,20,40,.15);
+      display: block;
+      cursor: pointer;
+    }
+    .splash-title {
+      font-size: 28px;
+      font-weight: 800;
+      margin: 0;
+      letter-spacing: .2px;
+    }
+    .splash-sub {
+      margin: 0;
+      color: var(--muted);
+      font-size: 16px;
+    }
+    .splash-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 14px 28px;
+      border-radius: 18px;
+      background: linear-gradient(135deg, rgba(122,167,255,.30), rgba(255,183,199,.28));
+      border: 1px solid rgba(60,60,90,.12);
+      font-weight: 800;
+      font-size: 17px;
+      color: var(--ink);
+      text-decoration: none;
+      box-shadow: 0 6px 20px rgba(122,167,255,.18);
+      transition: filter .15s;
+    }
+    .splash-btn:hover { filter: brightness(1.04); }
+  </style>
 </head>
 <body>
-  <header class="wrap">
-    <div class="brand">
-      <div class="logo" aria-hidden="true"></div>
-      <div>
-        <h1>Livrinhos do Benjamin</h1>
-        <p class="lead">Escolha um livro para ler. As páginas já estão prontas para você colocar as ilustrações em <kbd>images/</kbd> (cores pastel, estilo infantil).</p>
+  <div class="splash">
+    <a href="livros.html">
+      <img
+        class="splash-img"
+        src="images/capa.png"
+        alt="Livrinhos do Benjamin"
+        onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"
+      />
+      <div style="display:none; max-width:420px; padding:40px; border-radius:24px; background:var(--card); box-shadow:0 20px 60px rgba(20,20,40,.15);">
+        <p style="font-size:64px; margin:0;">📚</p>
+        <p style="margin:12px 0 0; color:var(--muted); font-size:14px;">Salve sua imagem em <kbd>images/capa.png</kbd></p>
       </div>
-    </div>
-  </header>
+    </a>
 
-  <main class="wrap">
-    <div class="grid">
-      <article class="card">
-      <div class="badge">📘 Livro 01 <span aria-hidden="true">•</span> 🌧️💧🚪</div>
-      <h2 class="title">A Aventura do Benjamin e a Poça Misteriosa</h2>
-      <p class="desc">Benjamin era um menino curioso. Ele adorava correr pelo quintal depois da chuva, pular nas poças e observar tudo ao seu redor.</p>
-      <a class="btn" href="livro_01.html" aria-label="Abrir A Aventura do Benjamin e a Poça Misteriosa">
-        Abrir história <span aria-hidden="true">→</span>
-      </a>
-    </article><article class="card">
-      <div class="badge">📘 Livro 02 <span aria-hidden="true">•</span> 🐴💛</div>
-      <h2 class="title">Benjamin e o Cavalo do Coração Valente</h2>
-      <p class="desc">Benjamin tinha energia de foguete. Ele corria, pulava e falava rápido — e às vezes o coração dele parecia correr junto.</p>
-      <a class="btn" href="livro_02.html" aria-label="Abrir Benjamin e o Cavalo do Coração Valente">
-        Abrir história <span aria-hidden="true">→</span>
-      </a>
-    </article><article class="card">
-      <div class="badge">📘 Livro 03 <span aria-hidden="true">•</span> 🎒✨</div>
-      <h2 class="title">Benjamin e a Mochila das Pequenas Conquistas</h2>
-      <p class="desc">Benjamin estava crescendo. Um pouquinho a cada dia.</p>
-      <a class="btn" href="livro_03.html" aria-label="Abrir Benjamin e a Mochila das Pequenas Conquistas">
-        Abrir história <span aria-hidden="true">→</span>
-      </a>
-    </article><article class="card">
-      <div class="badge">📘 Livro 04 <span aria-hidden="true">•</span> 🌱🚪✨</div>
-      <h2 class="title">Benjamin e o Jardim do Pode e do Agora Não</h2>
-      <p class="desc">Benjamin era curioso. Muito curioso. Ele gostava de abrir portas e descobrir coisas novas.</p>
-      <a class="btn" href="livro_04.html" aria-label="Abrir Benjamin e o Jardim do Pode e do Agora Não">
-        Abrir história <span aria-hidden="true">→</span>
-      </a>
-    </article><article class="card">
-      <div class="badge">📘 Livro 05 <span aria-hidden="true">•</span> ⏰🧸✨</div>
-      <h2 class="title">Benjamin e o Relógio da Vez</h2>
-      <p class="desc">Benjamin gostava muito de brincar. Quando queria um brinquedo, queria agora.</p>
-      <a class="btn" href="livro_05.html" aria-label="Abrir Benjamin e o Relógio da Vez">
-        Abrir história <span aria-hidden="true">→</span>
-      </a>
-    </article><article class="card">
-      <div class="badge">📘 Livro 06 <span aria-hidden="true">•</span> ⏰⚙️💛</div>
-      <h2 class="title">Benjamin e a Fábrica do Tempo que Quase Parou</h2>
-      <p class="desc">Benjamin gostava de brincar e espalhar brinquedos pela casa.</p>
-      <a class="btn" href="livro_06.html" aria-label="Abrir Benjamin e a Fábrica do Tempo que Quase Parou">
-        Abrir história <span aria-hidden="true">→</span>
-      </a>
-    </article><article class="card">
-      <div class="badge">📘 Livro 07 <span aria-hidden="true">•</span> 🐶💛🏠</div>
-      <h2 class="title">Benjamin e Amora, Juntos no Coração</h2>
-      <p class="desc">Benjamin tinha uma cachorrinha chamada Amora. Ela era pequena, fofa e tinha o rabinho mais feliz do mundo.</p>
-      <a class="btn" href="livro_07.html" aria-label="Abrir Benjamin e Amora, Juntos no Coração">
-        Abrir história <span aria-hidden="true">→</span>
-      </a>
-    </article><article class="card">
-      <div class="badge">📘 Livro 08 <span aria-hidden="true">•</span> 🌙✨🛡️</div>
-      <h2 class="title">Benjamin e a Capa da Proteção</h2>
-      <p class="desc">Era hora de dormir, e o quarto do Benjamin já estava quase todo pronto para a noite.</p>
-      <a class="btn" href="livro_08.html" aria-label="Abrir Benjamin e a Capa da Proteção">
-        Abrir história <span aria-hidden="true">→</span>
-      </a>
-    </article><article class="card">
-      <div class="badge">📘 Livro 09 <span aria-hidden="true">•</span> 🌱✨🦋</div>
-      <h2 class="title">Benjamin e o Jardim da Paciência</h2>
-      <p class="desc">Numa certa manhã, Benjamin acordou com o coração apressado. Tudo parecia demorar mais do que ele queria.</p>
-      <a class="btn" href="livro_09.html" aria-label="Abrir Benjamin e o Jardim da Paciência">
-        Abrir história <span aria-hidden="true">→</span>
-      </a>
-    </article><article class="card">
-      <div class="badge">📘 Livro 10 <span aria-hidden="true">•</span> 🌬️💙🌙</div>
-      <h2 class="title">Benjamin e o Segredo de Respirar Tranquilo</h2>
-      <p class="desc">Numa tarde bem calma, Benjamin estava brincando no tapete da sala quando sentiu o peito um pouquinho apertado.</p>
-      <a class="btn" href="livro_10.html" aria-label="Abrir Benjamin e o Segredo de Respirar Tranquilo">
-        Abrir história <span aria-hidden="true">→</span>
-      </a>
-    </article><article class="card">
-      <div class="badge">📘 Livro 11 <span aria-hidden="true">•</span> 🧸💛✨</div>
-      <h2 class="title">Benjamin e o Amigo que Morava no Bolso</h2>
-      <p class="desc">Um dia, Benjamin percebeu uma coisa estranha. O bolso da mochila dele estava… se mexendo.</p>
-      <a class="btn" href="livro_11.html" aria-label="Abrir Benjamin e o Amigo que Morava no Bolso">
-        Abrir história <span aria-hidden="true">→</span>
-      </a>
-    </article><article class="card">
-      <div class="badge">📘 Livro 12 <span aria-hidden="true">•</span> 🐉🫧😂</div>
-      <h2 class="title">Benjamin e o Dragão que Soluçava Bolhas</h2>
-      <p class="desc">Benjamin estava brincando no quintal quando ouviu um barulho estranho: Glup! Glup! HIC!</p>
-      <a class="btn" href="livro_12.html" aria-label="Abrir Benjamin e o Dragão que Soluçava Bolhas">
-        Abrir história <span aria-hidden="true">→</span>
-      </a>
-    </article>
-    </div>
+    <h1 class="splash-title">Livrinhos do Benjamin</h1>
+    <p class="splash-sub">12 histórias para ler juntos 💛</p>
 
-    <hr class="sep" />
-
-    <section class="page">
-      <div class="page-top">
-        <strong>Como colocar as imagens</strong>
-      </div>
-      <div class="story">
-        <p>1) Gere uma ilustração para cada história (eu deixei os nomes sugeridos abaixo).</p>
-        <p>2) Salve na pasta <kbd>images/</kbd> com o nome indicado.</p>
-        <p>3) Abra o <kbd>index.html</kbd> no navegador.</p>
-
-        <p class="note"><strong>Nomes de arquivo esperados:</strong><br/>
-        <kbd>capa_01.png</kbd>, <kbd>capa_02.png</kbd>, <kbd>capa_03.png</kbd>, <kbd>capa_04.png</kbd>, <kbd>capa_05.png</kbd>, <kbd>capa_06.png</kbd>, <kbd>capa_07.png</kbd>, <kbd>capa_08.png</kbd>, <kbd>capa_09.png</kbd>, <kbd>capa_10.png</kbd>, <kbd>capa_11.png</kbd>, <kbd>capa_12.png</kbd>
-        </p>
-      </div>
-    </section>
-  </main>
-
-  <footer class="wrap">
-    Feito para leitura em celular/PC • Layout leve • Sem dependências externas
-  </footer>
+    <a class="splash-btn" href="livros.html">
+      Ver as histórias <span aria-hidden="true">→</span>
+    </a>
+  </div>
 </body>
 </html>
