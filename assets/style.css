@@ -161,3 +161,15 @@ kbd{
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
   font-size:12px;
 }
+
+/* ===== MOBILE ===== */
+@media (max-width: 640px) {
+  h1 { font-size: 20px; }
+  .wrap { padding: 0 10px 24px; }
+  header { padding: 16px 10px 6px; }
+  .page-top { padding: 12px 12px 8px; gap: 8px; }
+  .smallbtn { padding: 7px 10px; font-size: 13px; }
+  .hero { padding: 0 12px 12px; }
+  .story { padding: 12px; font-size: 15px; line-height: 1.7; }
+  .illus { min-height: 200px; padding: 10px; }
+}
