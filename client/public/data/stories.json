@@ -1,0 +1,914 @@
+[
+  {
+    "id": 1,
+    "title": "A Aventura do Benjamin e a Poça Misteriosa",
+    "description": "Uma história sobre curiosidade e cautela",
+    "coverImage": "/images/capa_01.png",
+    "pages": [
+      {
+        "id": 1,
+        "storyId": 1,
+        "pageNumber": 1,
+        "content": "Benjamin era um menino curioso. 🌟\n\nEle adorava correr pelo quintal depois da chuva, pular nas poças e observar tudo ao seu redor.",
+        "imageUrl": "/images/img1-1.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 2,
+        "storyId": 1,
+        "pageNumber": 2,
+        "content": "Um dia, ele viu uma poça de água diferente perto do portão.\n\nEla brilhava como um espelho e parecia chamar:\n\n— \"Vem olhar aqui…\" ✨",
+        "imageUrl": "/images/img1-2.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 3,
+        "storyId": 1,
+        "pageNumber": 3,
+        "content": "Benjamin chegou mais pertinho…\n\nMas então lembrou do que a mamãe sempre dizia:\n\n— \"Antes de ir, olha bem. Antes de tocar, pergunta.\" 🤔",
+        "imageUrl": "/images/img1-3.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 4,
+        "storyId": 1,
+        "pageNumber": 4,
+        "content": "Curioso, Benjamin pegou um gravetinho e encostou na poça.\n\nPloc! 💧\n\nA água se mexeu… e ele percebeu uma coisa:\n\nA poça era funda. Muito mais funda do que parecia!",
+        "imageUrl": "/images/img1-4.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 5,
+        "storyId": 1,
+        "pageNumber": 5,
+        "content": "Se Benjamin tivesse pulado, teria molhado toda a roupa, escorregado e se assustado.\n\nMas como ele foi devagar e pensou primeiro, ficou só com o coração batendo rápido…\n\nE um sorrisinho de alívio no rosto. 😊",
+        "imageUrl": "/images/img1-5.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 6,
+        "storyId": 1,
+        "pageNumber": 6,
+        "content": "Então ele correu para contar para a mamãe:\n\n— \"Ainda bem que eu testei antes, né?\"\n\nA mamãe deu um abraço e disse:\n\n— \"Os exploradores inteligentes sempre olham, pensam e pedem ajuda.\" 🤗",
+        "imageUrl": "/images/img1-6.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 7,
+        "storyId": 1,
+        "pageNumber": 7,
+        "content": "Naquele dia, Benjamin aprendeu uma coisa muito importante:\n\n✨ Nem tudo que parece brincadeira é seguro.\n\nE ser cuidadoso também é ser corajoso. 💛",
+        "imageUrl": "/images/img1-7.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Benjamin e o Cavalo do Coração Valente",
+    "description": "Uma história sobre coragem e perseverança",
+    "coverImage": "/images/capa_02.png",
+    "pages": [
+      {
+        "id": 8,
+        "storyId": 2,
+        "pageNumber": 1,
+        "content": "Benjamin tinha energia de foguete. 🚀\n\nEle corria, pulava e falava rápido — e às vezes o coração dele parecia correr junto.",
+        "imageUrl": "/images/capa_02.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 9,
+        "storyId": 2,
+        "pageNumber": 2,
+        "content": "A mamãe e o papai pensaram numa ideia:\n\n— \"Que tal aula de equitação? Os cavalos ajudam a gente a ficar mais calmo.\" 🐴",
+        "imageUrl": "/images/capa_02.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 10,
+        "storyId": 2,
+        "pageNumber": 3,
+        "content": "Benjamin gostou da ideia!\n\nNa primeira aula, ele ficou um pouco nervoso… mas adorou. 🌟",
+        "imageUrl": "/images/capa_02.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 11,
+        "storyId": 2,
+        "pageNumber": 4,
+        "content": "Na terceira aula, o cavalo se assustou e Benjamin caiu.\n\nNão foi um tombo muito forte, mas foi um susto grande. 😰",
+        "imageUrl": "/images/capa_02.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 12,
+        "storyId": 2,
+        "pageNumber": 5,
+        "content": "O professor disse com calma:\n\n— \"Cair faz parte de aprender. Os corajosos não são os que nunca caem.\n\nSão os que levantam.\" 💪",
+        "imageUrl": "/images/capa_02.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 13,
+        "storyId": 2,
+        "pageNumber": 6,
+        "content": "Benjamin respirou fundo e disse:\n\n— \"Eu quero tentar de novo.\" 🌟",
+        "imageUrl": "/images/capa_02.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 14,
+        "storyId": 2,
+        "pageNumber": 7,
+        "content": "Naquele dia, Benjamin aprendeu:\n\n✨ Coragem não é nunca cair.\n\nCoragem é levantar e continuar fazendo o que a gente ama. 💛",
+        "imageUrl": "/images/capa_02.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Benjamin e a Mochila das Pequenas Conquistas",
+    "description": "Uma história sobre autonomia e crescimento",
+    "coverImage": "/images/capa_03.png",
+    "pages": [
+      {
+        "id": 15,
+        "storyId": 3,
+        "pageNumber": 1,
+        "content": "Benjamin estava crescendo. 🌱\n\nUm dia, ele encontrou uma mochila azul com três bolsos:\n\n\"Eu tento\" · \"Eu consigo\" · \"Eu peço ajuda\"",
+        "imageUrl": "/images/capa_03.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 16,
+        "storyId": 3,
+        "pageNumber": 2,
+        "content": "A mamãe explicou:\n\n— \"Essa é a mochila das pequenas conquistas.\" 🎒✨",
+        "imageUrl": "/images/capa_03.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 17,
+        "storyId": 3,
+        "pageNumber": 3,
+        "content": "Naquela manhã, ele decidiu calçar o tênis sozinho.\n\nTentou. Desfez. Tentou de novo.\n\nE conseguiu! 👟🎉",
+        "imageUrl": "/images/capa_03.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 18,
+        "storyId": 3,
+        "pageNumber": 4,
+        "content": "Depois, precisou de ajuda para guardar uma caixa pesada.\n\nBenjamin disse:\n\n— \"Mãe, me ajuda?\" 📦",
+        "imageUrl": "/images/capa_03.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 19,
+        "storyId": 3,
+        "pageNumber": 5,
+        "content": "A mamãe disse:\n\n— \"Ser autônomo não é fazer tudo perfeito.\n\nÉ tentar, errar, tentar de novo…\n\ne saber pedir ajuda quando precisa.\" 💕",
+        "imageUrl": "/images/capa_03.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 20,
+        "storyId": 3,
+        "pageNumber": 6,
+        "content": "Benjamin abraçou a mochila e dormiu com um sorriso, pronto para crescer. 💛🌙",
+        "imageUrl": "/images/capa_03.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Benjamin e o Jardim dos Caminhos Espertos",
+    "description": "Uma história sobre limites e segurança",
+    "coverImage": "/images/capa_04.png",
+    "pages": [
+      {
+        "id": 21,
+        "storyId": 4,
+        "pageNumber": 1,
+        "content": "Benjamin era curioso como um explorador. 🔍\n\nUm dia, a família foi ao Jardim dos Caminhos Espertos.",
+        "imageUrl": "/images/capa_04.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 22,
+        "storyId": 4,
+        "pageNumber": 2,
+        "content": "Havia três portas mágicas:\n\n🟢 PODE (verde)\n🔵 PODE COM AJUDA (azul)\n🔴 AGORA NÃO (vermelha)",
+        "imageUrl": "/images/capa_04.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 23,
+        "storyId": 4,
+        "pageNumber": 3,
+        "content": "Benjamin aprendeu que algumas coisas são seguras e ele pode fazer sozinho.\n\n✅ Como brincar no parque!",
+        "imageUrl": "/images/capa_04.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 24,
+        "storyId": 4,
+        "pageNumber": 4,
+        "content": "Outras coisas precisam de ajuda de um adulto.\n\n🤝 Como atravessar a rua!",
+        "imageUrl": "/images/capa_04.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 25,
+        "storyId": 4,
+        "pageNumber": 5,
+        "content": "E outras ainda não são para agora.\n\n⏰ Mas um dia vão ser!",
+        "imageUrl": "/images/capa_04.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 26,
+        "storyId": 4,
+        "pageNumber": 6,
+        "content": "No final, ele entendeu:\n\n✨ Limites não são castigo.\n\nLimites são placas que mostram o caminho mais seguro para crescer. 💛🌈",
+        "imageUrl": "/images/capa_04.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Benjamin e o Relógio da Vez",
+    "description": "Uma história sobre paciência e compartilhar",
+    "coverImage": "/images/capa_05.png",
+    "pages": [
+      {
+        "id": 27,
+        "storyId": 5,
+        "pageNumber": 1,
+        "content": "Benjamin gostava muito de brincar. 🎮\n\nQuando ele queria um brinquedo, queria AGORA!",
+        "imageUrl": "/images/capa_05.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 28,
+        "storyId": 5,
+        "pageNumber": 2,
+        "content": "No parquinho, ele conheceu o Relógio da Vez. ⏰\n\nO relógio ensinou:\n\n— \"Quando cada um espera a sua vez, todo mundo consegue brincar.\"",
+        "imageUrl": "/images/capa_05.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 29,
+        "storyId": 5,
+        "pageNumber": 3,
+        "content": "Benjamin aprendeu a esperar… 🙂\n\nE a dividir seus brinquedos!",
+        "imageUrl": "/images/capa_05.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 30,
+        "storyId": 5,
+        "pageNumber": 4,
+        "content": "A brincadeira ficou mais divertida!\n\nTodo mundo feliz! 🎉",
+        "imageUrl": "/images/capa_05.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 31,
+        "storyId": 5,
+        "pageNumber": 5,
+        "content": "Naquele dia, ele aprendeu:\n\n✨ Esperar a vez e dividir fazem a brincadeira ficar ainda melhor. 💛",
+        "imageUrl": "/images/capa_05.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Benjamin e a Fábrica do Tempo que Quase Parou",
+    "description": "Uma história sobre ajudar em casa",
+    "coverImage": "/images/capa_06.png",
+    "pages": [
+      {
+        "id": 32,
+        "storyId": 6,
+        "pageNumber": 1,
+        "content": "Benjamin tinha muita energia! ⚡\n\nMas a casa parecia cansada…",
+        "imageUrl": "/images/capa_06.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 33,
+        "storyId": 6,
+        "pageNumber": 2,
+        "content": "O Senhor Tempo apareceu e explicou:\n\n— \"Quando ninguém ajuda, o tempo fica cansado.\" ⏰😴",
+        "imageUrl": "/images/capa_06.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 34,
+        "storyId": 6,
+        "pageNumber": 3,
+        "content": "Benjamin decidiu ajudar!\n\n🧸 Guardou os brinquedos\n🛏️ Arrumou o quarto",
+        "imageUrl": "/images/capa_06.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 35,
+        "storyId": 6,
+        "pageNumber": 4,
+        "content": "A mamãe disse sorrindo:\n\n— \"Quando você ajuda, sobra tempo pra gente ficar junto.\" 💕",
+        "imageUrl": "/images/capa_06.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 36,
+        "storyId": 6,
+        "pageNumber": 5,
+        "content": "Benjamin aprendeu:\n\n✨ Ajudar cria mais tempo para ficar com quem a gente ama. 💛⏰✨",
+        "imageUrl": "/images/capa_06.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Benjamin e Amora, Juntos no Coração",
+    "description": "Uma história sobre saudade e amor",
+    "coverImage": "/images/capa_07.png",
+    "pages": [
+      {
+        "id": 37,
+        "storyId": 7,
+        "pageNumber": 1,
+        "content": "Benjamin tinha uma cachorrinha chamada Amora. 🐶💜\n\nEles eram inseparáveis!",
+        "imageUrl": "/images/capa_07.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 38,
+        "storyId": 7,
+        "pageNumber": 2,
+        "content": "Mas a família precisou mudar de casa.\n\nE Amora não podia ir junto. 😢",
+        "imageUrl": "/images/capa_07.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 39,
+        "storyId": 7,
+        "pageNumber": 3,
+        "content": "A mamãe explicou:\n\n— \"O amor não vai embora quando a gente se separa.\n\nEle só muda de lugar.\" 💕",
+        "imageUrl": "/images/capa_07.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 40,
+        "storyId": 7,
+        "pageNumber": 4,
+        "content": "Benjamin desenhou a Amora e disse:\n\n— \"Onde eu estiver, você está no meu coração.\" 🎨❤️",
+        "imageUrl": "/images/capa_07.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 41,
+        "storyId": 7,
+        "pageNumber": 5,
+        "content": "Alguns amigos nunca deixam de seguir a gente.\n\nEles só aprendem a morar dentro do coração. 🐶💛✨",
+        "imageUrl": "/images/capa_07.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Benjamin e a Capa da Proteção",
+    "description": "Uma história sobre fé e segurança",
+    "coverImage": "/images/capa_08.png",
+    "pages": [
+      {
+        "id": 42,
+        "storyId": 8,
+        "pageNumber": 1,
+        "content": "Era hora de dormir. 🌙\n\nBenjamin perguntou:\n\n— \"Mamãe, quem cuida de mim quando eu durmo?\"",
+        "imageUrl": "/images/capa_08.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 43,
+        "storyId": 8,
+        "pageNumber": 2,
+        "content": "A mamãe respondeu com carinho:\n\n— \"Deus cuida de você o tempo todo, meu amor.\" ✨",
+        "imageUrl": "/images/capa_08.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 44,
+        "storyId": 8,
+        "pageNumber": 3,
+        "content": "Benjamin imaginou uma capa mágica de estrelas cobrindo sua cama. ⭐🛏️⭐",
+        "imageUrl": "/images/capa_08.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 45,
+        "storyId": 8,
+        "pageNumber": 4,
+        "content": "Ele disse baixinho:\n\n— \"Obrigado, Papai do Céu, por cuidar de mim.\" 🙏",
+        "imageUrl": "/images/capa_08.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 46,
+        "storyId": 8,
+        "pageNumber": 5,
+        "content": "E dormiu em paz, guardado por um amor que nunca dorme. 🌙✨💛",
+        "imageUrl": "/images/capa_08.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Benjamin e o Jardim da Paciência",
+    "description": "Uma história sobre esperar com confiança",
+    "coverImage": "/images/capa_09.png",
+    "pages": [
+      {
+        "id": 47,
+        "storyId": 9,
+        "pageNumber": 1,
+        "content": "Benjamin acordou com pressa. ⏰💨\n\nTudo parecia demorar!",
+        "imageUrl": "/images/capa_09.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 48,
+        "storyId": 9,
+        "pageNumber": 2,
+        "content": "No Jardim da Paciência, ele viu sementes crescendo devagar… 🌱",
+        "imageUrl": "/images/capa_09.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 49,
+        "storyId": 9,
+        "pageNumber": 3,
+        "content": "…e borboletas saindo do casulo no seu tempo. 🦋",
+        "imageUrl": "/images/capa_09.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 50,
+        "storyId": 9,
+        "pageNumber": 4,
+        "content": "A mamãe disse:\n\n— \"Esperar não é perder tempo.\n\nÉ confiar que as coisas estão acontecendo.\" 🙂",
+        "imageUrl": "/images/capa_09.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 51,
+        "storyId": 9,
+        "pageNumber": 5,
+        "content": "Benjamin voltou para casa mais calmo, com um pedacinho de paciência crescendo dentro dele. 🌱✨💛",
+        "imageUrl": "/images/capa_09.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Benjamin e o Segredo de Respirar Tranquilo",
+    "description": "Uma história sobre acalmar a ansiedade",
+    "coverImage": "/images/capa_10.png",
+    "pages": [
+      {
+        "id": 52,
+        "storyId": 10,
+        "pageNumber": 1,
+        "content": "Benjamin sentiu o peito um pouquinho apertado. 😟\n\nO coração batia rápido demais.",
+        "imageUrl": "/images/capa_10.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 53,
+        "storyId": 10,
+        "pageNumber": 2,
+        "content": "A mamãe ensinou:\n\n— \"Imagina que o ar é um balão invisível.\n\nEnche devagar… 🎈\n\nE solta devagar…\"",
+        "imageUrl": "/images/capa_10.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 54,
+        "storyId": 10,
+        "pageNumber": 3,
+        "content": "Eles respiraram juntos.\n\n🌬️ Inspira…\n🌬️ Solta…\n\nO peito foi ficando mais leve.",
+        "imageUrl": "/images/capa_10.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 55,
+        "storyId": 10,
+        "pageNumber": 4,
+        "content": "Benjamin dormiu em paz, guardando no coração o segredo de respirar tranquilo. 🌙💙",
+        "imageUrl": "/images/capa_10.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Benjamin e o Amigo que Morava no Bolso",
+    "description": "Uma história sobre amizade",
+    "coverImage": "/images/capa_11.png",
+    "pages": [
+      {
+        "id": 56,
+        "storyId": 11,
+        "pageNumber": 1,
+        "content": "Benjamin encontrou no bolso um bichinho pequenino chamado Pipo! 🐹",
+        "imageUrl": "/images/capa_11.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 57,
+        "storyId": 11,
+        "pageNumber": 2,
+        "content": "Pipo ensinou Benjamin a fazer amigos:\n\n— \"Amigos dividem sorrisos.\" 😊",
+        "imageUrl": "/images/capa_11.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 58,
+        "storyId": 11,
+        "pageNumber": 3,
+        "content": "Benjamin sorriu para outros meninos.\n\nE eles sorriram de volta! 🌟",
+        "imageUrl": "/images/capa_11.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 59,
+        "storyId": 11,
+        "pageNumber": 4,
+        "content": "Um dia, Pipo deixou um bilhete:\n\n\"Amigos de verdade moram no coração.\" 💌",
+        "imageUrl": "/images/capa_11.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 60,
+        "storyId": 11,
+        "pageNumber": 5,
+        "content": "Benjamin aprendeu:\n\n✨ Amizade é estar junto, cuidar e convidar o outro para brincar. 💛✨",
+        "imageUrl": "/images/capa_11.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Benjamin e o Dragão que Soluçava Bolhas",
+    "description": "Uma história divertida sobre ajudar os outros",
+    "coverImage": "/images/capa_12.png",
+    "pages": [
+      {
+        "id": 61,
+        "storyId": 12,
+        "pageNumber": 1,
+        "content": "Benjamin encontrou um dragão azul!\n\nMas esse dragão soluçava bolhas de sabão! 🫧🐉",
+        "imageUrl": "/images/capa_12.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 62,
+        "storyId": 12,
+        "pageNumber": 2,
+        "content": "— HIC! 🫧\n— HIC! 🫧🫧\n\nO dragão precisava de ajuda!",
+        "imageUrl": "/images/capa_12.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 63,
+        "storyId": 12,
+        "pageNumber": 3,
+        "content": "Benjamin tentou dar água… 💧\nTentou fazer ele respirar fundo… 🌬️\n\nNada funcionava!",
+        "imageUrl": "/images/capa_12.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 64,
+        "storyId": 12,
+        "pageNumber": 4,
+        "content": "Até que Benjamin fez uma careta engraçada! 🤪\n\nO dragão começou a rir!",
+        "imageUrl": "/images/capa_12.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 65,
+        "storyId": 12,
+        "pageNumber": 5,
+        "content": "De tanto rir juntos, o soluço parou! 😂🐉\n\nO dragão voou embora feliz, deixando uma bolha em forma de coração. 🫧💛",
+        "imageUrl": "/images/capa_12.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Benjamin e o Botão do \"Agora!\"",
+    "description": "Uma história sobre impulsividade",
+    "coverImage": "/images/capa_13.png",
+    "pages": [
+      {
+        "id": 66,
+        "storyId": 13,
+        "pageNumber": 1,
+        "content": "Benjamin sentia um botão invisível dentro dele que fazia:\n\n🔴 PIIM!\n\nE transformava vontade em pressa!",
+        "imageUrl": "/images/capa_13.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 67,
+        "storyId": 13,
+        "pageNumber": 2,
+        "content": "Mas a pressa causava bagunça:\n\n🥤 Suco derramado!\n👟 Tropeços!\n😰 Oops!",
+        "imageUrl": "/images/capa_13.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 68,
+        "storyId": 13,
+        "pageNumber": 3,
+        "content": "Benjamin descobriu que tinha DOIS botões:\n\n🔴 Um vermelho: AGORA!\n🔵 Um azul: ESCUTA. PENSA. ESPERA.",
+        "imageUrl": "/images/capa_13.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 69,
+        "storyId": 13,
+        "pageNumber": 4,
+        "content": "Ele começou a ouvir mais o botão azul… 🔵\n\nE o dia ficou mais calmo e seguro.",
+        "imageUrl": "/images/capa_13.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 70,
+        "storyId": 13,
+        "pageNumber": 5,
+        "content": "Benjamin aprendeu:\n\n✨ Parar para pensar faz tudo ficar melhor! 💛",
+        "imageUrl": "/images/capa_13.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Benjamin e Maria, Minha Princesinha",
+    "description": "Uma história sobre o amor de primo",
+    "coverImage": "/images/capa_14.png",
+    "pages": [
+      {
+        "id": 71,
+        "storyId": 14,
+        "pageNumber": 1,
+        "content": "Quando Maria nasceu, Benjamin disse:\n\n— \"Ela é o meu bebezinho!\" 👶💕",
+        "imageUrl": "/images/capa_14.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 72,
+        "storyId": 14,
+        "pageNumber": 2,
+        "content": "Eles adoravam brincar juntos!\n\nRisadas e mais risadas! 😄🎉",
+        "imageUrl": "/images/capa_14.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 73,
+        "storyId": 14,
+        "pageNumber": 3,
+        "content": "Quando Maria ia embora, os dois sentiam saudade. 😢💔",
+        "imageUrl": "/images/capa_14.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 74,
+        "storyId": 14,
+        "pageNumber": 4,
+        "content": "A mamãe disse:\n\n— \"Quando a gente ama alguém, esse alguém nunca vai embora de verdade.\" 💕",
+        "imageUrl": "/images/capa_14.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 75,
+        "storyId": 14,
+        "pageNumber": 5,
+        "content": "E toda vez que se reencontravam, o abraço dizia:\n\n— \"Nunca deixamos de ser juntos.\" 🤗💛",
+        "imageUrl": "/images/capa_14.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Benjamin e o Dia em que a Sala Virou Tempestade",
+    "description": "Uma história sobre comportamento na escola",
+    "coverImage": "/images/capa_15.png",
+    "pages": [
+      {
+        "id": 76,
+        "storyId": 15,
+        "pageNumber": 1,
+        "content": "Benjamin acordou com energia de foguete! 🚀\n\nNa escola, ele não parava quieto!",
+        "imageUrl": "/images/capa_15.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 77,
+        "storyId": 15,
+        "pageNumber": 2,
+        "content": "Ele conversou quando era hora de ouvir… 🗣️\nBrincou de lutinha na hora errada… ⚔️\nE não fez a atividade! 📝❌\n\nA sala virou tempestade! ⛈️",
+        "imageUrl": "/images/capa_15.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 78,
+        "storyId": 15,
+        "pageNumber": 3,
+        "content": "A professora explicou com calma:\n\n— \"Quando você não escuta, todo mundo perde.\"",
+        "imageUrl": "/images/capa_15.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 79,
+        "storyId": 15,
+        "pageNumber": 4,
+        "content": "Benjamin respirou fundo… 🌬️\nSentou… 🪑\nOuviu… 👂\nE fez a atividade! ✅",
+        "imageUrl": "/images/capa_15.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 80,
+        "storyId": 15,
+        "pageNumber": 5,
+        "content": "Ele aprendeu:\n\n✨ Escola é lugar de aprender, respeitar e brincar — cada coisa no seu tempo. 🌈",
+        "imageUrl": "/images/capa_15.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Benjamin e a Montanha do \"Eu Consigo Sozinho\"",
+    "description": "Uma história sobre pedir ajuda",
+    "coverImage": "/images/capa_16.png",
+    "pages": [
+      {
+        "id": 81,
+        "storyId": 16,
+        "pageNumber": 1,
+        "content": "Benjamin adorava dizer:\n\n— \"Eu consigo sozinho!\" 💪",
+        "imageUrl": "/images/capa_16.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 82,
+        "storyId": 16,
+        "pageNumber": 2,
+        "content": "Um dia, na montanha, o caminho difícil ficou muito cansativo. 🏔️😓",
+        "imageUrl": "/images/capa_16.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 83,
+        "storyId": 16,
+        "pageNumber": 3,
+        "content": "Benjamin parou e disse:\n\n— \"Mãe, você pode me ajudar?\" 🙋",
+        "imageUrl": "/images/capa_16.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 84,
+        "storyId": 16,
+        "pageNumber": 4,
+        "content": "A mamãe sorriu e disse:\n\n— \"Pedir ajuda também é ser forte.\" 💕",
+        "imageUrl": "/images/capa_16.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 85,
+        "storyId": 16,
+        "pageNumber": 5,
+        "content": "Juntos, chegaram ao topo! ⛰️🎉\n\nBenjamin aprendeu que pedir ajuda faz a aventura ficar melhor. 💛",
+        "imageUrl": "/images/capa_16.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Benjamin e o Mapa do Tesouro da Família",
+    "description": "Uma história sobre família",
+    "coverImage": "/images/capa_17.png",
+    "pages": [
+      {
+        "id": 86,
+        "storyId": 17,
+        "pageNumber": 1,
+        "content": "Benjamin encontrou um mapa com X marcados pela casa! 🗺️\n\nQue aventura!",
+        "imageUrl": "/images/capa_17.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 87,
+        "storyId": 17,
+        "pageNumber": 2,
+        "content": "Cada X tinha um bilhete sobre os tesouros de cada lugar:\n\n🛏️ No quarto: sonhos\n🍽️ Na cozinha: lanches gostosos\n🛋️ Na sala: risadas",
+        "imageUrl": "/images/capa_17.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 88,
+        "storyId": 17,
+        "pageNumber": 3,
+        "content": "No quintal, tinha uma caixinha especial! 📦✨",
+        "imageUrl": "/images/capa_17.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 89,
+        "storyId": 17,
+        "pageNumber": 4,
+        "content": "Dentro, um espelho e um bilhete:\n\n\"O maior tesouro é a nossa família.\" 👨‍👩‍👦💕",
+        "imageUrl": "/images/capa_17.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 90,
+        "storyId": 17,
+        "pageNumber": 5,
+        "content": "Benjamin aprendeu que família é o tesouro que não se perde nunca. 💛🏡✨",
+        "imageUrl": "/images/capa_17.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Benjamin, Lucas e Theo e o Segredo da Floresta Quentinha",
+    "description": "Uma história sobre segurança e pedir ajuda",
+    "coverImage": "/images/capa_18.png",
+    "pages": [
+      {
+        "id": 91,
+        "storyId": 18,
+        "pageNumber": 1,
+        "content": "Benjamin, Lucas e Theo estavam brincando na floresta. 🌳🌳🌳\n\nQue dia divertido!",
+        "imageUrl": "/images/capa_18.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 92,
+        "storyId": 18,
+        "pageNumber": 2,
+        "content": "De repente, eles viram fumaça! 💨\n\nE sentiram cheiro de queimado! 🔥",
+        "imageUrl": "/images/capa_18.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 93,
+        "storyId": 18,
+        "pageNumber": 3,
+        "content": "Benjamin disse:\n\n— \"Quando tem fumaça, pode ser fogo!\n\nA gente NÃO chega perto.\n\nA gente vai para um lugar seguro e chama ajuda!\" 🚨",
+        "imageUrl": "/images/capa_18.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 94,
+        "storyId": 18,
+        "pageNumber": 4,
+        "content": "Os bombeiros chegaram rápido e apagaram o fogo pequeno. 🚒👨‍🚒",
+        "imageUrl": "/images/capa_18.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 95,
+        "storyId": 18,
+        "pageNumber": 5,
+        "content": "Benjamin completou:\n\n— \"Herói de verdade é quem sabe pedir ajuda.\" 🦸",
+        "imageUrl": "/images/capa_18.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 96,
+        "storyId": 18,
+        "pageNumber": 6,
+        "content": "E os três voltaram a brincar, sabendo que cuidar da floresta é cuidar de todo mundo. 🌳💛",
+        "imageUrl": "/images/capa_18.png",
+        "isFinalDrawing": 1
+      }
+    ]
+  }
+]

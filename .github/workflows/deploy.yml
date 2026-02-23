@@ -34,9 +34,6 @@ jobs:
       - name: Instalar dependências
         run: npm ci
 
-      - name: Gerar dados estáticos
-        run: npx tsx script/generate-static.ts
-
       - name: Build
         run: npx vite build
         env:
