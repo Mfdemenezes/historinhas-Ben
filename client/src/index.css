@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&family=Outfit:wght@400;500;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Playful Palette */
+  --background: 40 100% 97%; /* Soft cream/paper */
+  --foreground: 222 47% 11%;
+
+  --primary: 340 82% 52%; /* Vibrant Pink/Red */
+  --primary-foreground: 0 0% 100%;
+
+  --secondary: 190 90% 40%; /* Ocean Blue */
+  --secondary-foreground: 210 40% 98%;
+
+  --accent: 45 100% 50%; /* Golden Yellow */
+  --accent-foreground: 222 47% 11%;
+
+  --muted: 40 20% 92%;
+  --muted-foreground: 215 16% 47%;
+
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 210 40% 98%;
+
+  --border: 40 20% 88%;
+  --input: 40 20% 88%;
+  --ring: 340 82% 52%;
+
+  --radius: 1rem;
+
+  --font-story: 'Comic Neue', cursive;
+  --font-ui: 'Outfit', sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: var(--font-ui);
+    background-image: radial-gradient(var(--border) 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold tracking-tight;
+  }
+}
+
+/* Book Effect Utilities */
+.book-shadow {
+  box-shadow: 
+    0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06),
+    0 0 0 1px rgba(0, 0, 0, 0.05),
+    5px 5px 15px rgba(0,0,0,0.1);
+}
+
+.page-content {
+  font-family: var(--font-story);
+}
+
+/* Custom Scrollbar for a cleaner look */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--muted-foreground) / 0.3);
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground) / 0.5);
+}
