@@ -22,7 +22,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-background pb-20">
       {/* Hero Header */}
-      <header className="relative bg-white border-b-2 border-border/50 pt-12 pb-16 px-6 overflow-hidden">
+      <header className="relative bg-white border-b-2 border-border/50 pt-8 pb-12 md:pt-12 md:pb-16 px-6 overflow-hidden">
         <div className="absolute top-10 right-10 w-64 h-64 bg-accent/10 rounded-full blur-3xl -z-10" />
         <div className="absolute top-20 left-10 w-40 h-40 bg-primary/5 rounded-full blur-2xl -z-10" />
 
@@ -40,7 +40,7 @@ export default function Home() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.1 }}
-            className="text-5xl md:text-7xl font-extrabold text-foreground mb-4 font-display tracking-tight"
+            className="text-4xl sm:text-5xl md:text-7xl font-extrabold text-foreground mb-4 font-display tracking-tight"
           >
             Livrinhos do<br />
             <span className="text-primary">Benjamin</span>
@@ -60,7 +60,7 @@ export default function Home() {
       {/* Stories Grid */}
       <main className="max-w-6xl mx-auto px-6 -mt-10">
         {stories && stories.length > 0 ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8">
             {stories.map((story, index) => (
               <motion.div
                 key={story.id}
