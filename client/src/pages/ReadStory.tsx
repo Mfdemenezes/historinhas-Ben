@@ -8,6 +8,7 @@ import { PageForm, StoryForm } from "@/components/AdminForms";
 import { Button } from "@/components/ui/button";
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 import { type Page } from "@shared/schema";
+import { imgUrl } from "@/lib/utils";
 
 export default function ReadStory() {
   const [, params] = useRoute("/read/:id");
@@ -160,7 +161,7 @@ export default function ReadStory() {
               >
                  {story.coverImage && (
                   <div className="w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-white/30 shadow-xl mb-8">
-                    <img src={story.coverImage} alt="Cover" className="w-full h-full object-cover" />
+                    <img src={imgUrl(story.coverImage)} alt="Cover" className="w-full h-full object-cover" />
                   </div>
                 )}
                 <h1 className="text-4xl md:text-6xl font-display font-bold mb-4 drop-shadow-md">
@@ -200,7 +201,7 @@ export default function ReadStory() {
                 {/* Visual Side (Left on desktop, Top on mobile) */}
                 <div className="w-full md:w-1/2 h-1/2 md:h-full bg-muted relative overflow-hidden">
                   {currentPage.imageUrl ? (
-                    <img src={currentPage.imageUrl} alt="Page illustration" className="w-full h-full object-cover" />
+                    <img src={imgUrl(currentPage.imageUrl)} alt="Page illustration" className="w-full h-full object-cover" />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center bg-accent/5">
                       <Sparkles className="w-20 h-20 text-accent/20" />

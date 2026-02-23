@@ -1,11 +1,21 @@
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import { api, buildUrl } from "@shared/routes";
-import type { 
-  InsertStory, 
-  InsertPage, 
-  StoryWithPages, 
-  Page 
+import type {
+  InsertStory,
+  InsertPage,
+  StoryWithPages,
+  Page
 } from "@shared/schema";
+
+// Em builds estáticos (GitHub Pages), VITE_STATIC_MODE=true
+const isStatic = import.meta.env.VITE_STATIC_MODE === "true";
+const BASE_URL = import.meta.env.BASE_URL;
+
+async function fetchStaticStories(): Promise<StoryWithPages[]> {
+  const res = await fetch(`${BASE_URL}data/stories.json`);
+  if (!res.ok) throw new Error("Failed to fetch stories");
+  return res.json();
+}
 
 // ==========================================
 // STORIES
@@ -15,6 +25,7 @@ export function useStories() {
   return useQuery({
     queryKey: [api.stories.list.path],
     queryFn: async () => {
+      if (isStatic) return fetchStaticStories();
       const res = await fetch(api.stories.list.path);
       if (!res.ok) throw new Error("Failed to fetch stories");
       return await res.json() as StoryWithPages[];
@@ -26,6 +37,10 @@ export function useStory(id: number) {
   return useQuery({
     queryKey: [api.stories.get.path, id],
     queryFn: async () => {
+      if (isStatic) {
+        const stories = await fetchStaticStories();
+        return stories.find(s => s.id === id) ?? null;
+      }
       const url = buildUrl(api.stories.get.path, { id });
       const res = await fetch(url);
       if (res.status === 404) return null;
@@ -96,8 +111,7 @@ export function useCreatePage() {
   const queryClient = useQueryClient();
   return useMutation({
     mutationFn: async ({ storyId, ...data }: InsertPage) => {
-      // Note: The API route uses :storyId in the path
-      const url = `/api/stories/${storyId}/pages`; 
+      const url = `/api/stories/${storyId}/pages`;
       const res = await fetch(url, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -107,7 +121,6 @@ export function useCreatePage() {
       return await res.json();
     },
     onSuccess: (_, variables) => {
-      // Invalidate the specific story to refresh its pages list
       queryClient.invalidateQueries({ queryKey: [api.stories.get.path, variables.storyId] });
       queryClient.invalidateQueries({ queryKey: [api.stories.list.path] });
     },
@@ -118,7 +131,6 @@ export function useUpdatePage() {
   const queryClient = useQueryClient();
   return useMutation({
     mutationFn: async ({ id, storyId, ...data }: { id: number, storyId: number } & Partial<InsertPage>) => {
-      // Note: The API route for update is /api/pages/:id
       const url = `/api/pages/${id}`;
       const res = await fetch(url, {
         method: "PUT",
