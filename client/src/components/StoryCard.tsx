@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 import { BookOpen, Paintbrush } from "lucide-react";
 import { type StoryWithPages } from "@shared/schema";
 import { Button } from "@/components/ui/button";
+import { imgUrl } from "@/lib/utils";
 
 interface StoryCardProps {
   story: StoryWithPages;
@@ -19,9 +20,9 @@ export function StoryCard({ story, onEdit, isAdmin = false }: StoryCardProps) {
     >
       <div className="aspect-[3/4] relative overflow-hidden bg-muted">
         {story.coverImage ? (
-          <img 
-            src={story.coverImage} 
-            alt={story.title} 
+          <img
+            src={imgUrl(story.coverImage)}
+            alt={story.title}
             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
           />
         ) : (

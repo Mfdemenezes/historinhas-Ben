@@ -1,29 +1,56 @@
-name: Deploy para Oracle Cloud
+name: Deploy GitHub Pages
 
 on:
   push:
     branches:
       - main
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout código
         uses: actions/checkout@v4
 
-      - name: Deploy via SSH
-        uses: appleboy/ssh-action@v1.0.3
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          host: ${{ secrets.SSH_HOST }}
-          username: ${{ secrets.SSH_USER }}
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
-          port: ${{ secrets.SSH_PORT || 22 }}
-          script: |
-            cd ${{ secrets.APP_PATH }}
-            git pull origin main
-            npm install --production=false
-            npm run build
-            pm2 restart historinhas || pm2 start dist/index.cjs --name historinhas
-            pm2 save
+          node-version: "20"
+          cache: "npm"
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Gerar dados estáticos
+        run: npx tsx script/generate-static.ts
+
+      - name: Build
+        run: npx vite build
+        env:
+          VITE_BASE_URL: /historinhas-Ben/
+          VITE_STATIC_MODE: "true"
+
+      - name: Configurar Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artefato
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/public
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
