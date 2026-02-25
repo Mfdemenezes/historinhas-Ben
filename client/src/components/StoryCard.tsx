@@ -22,7 +22,7 @@ export function StoryCard({ story }: StoryCardProps) {
             <img
               src={imgUrl(story.coverImage)}
               alt={story.title}
-              className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+              className="w-full h-full object-contain transition-transform duration-500 group-hover:scale-110"
             />
           ) : (
             <div className="w-full h-full flex items-center justify-center bg-accent/10">
