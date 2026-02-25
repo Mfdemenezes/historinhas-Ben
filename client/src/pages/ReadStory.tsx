@@ -296,7 +296,7 @@ export default function ReadStory() {
               >
                 <div className="w-1/2 h-full bg-muted relative overflow-hidden">
                   {currentPage.imageUrl ? (
-                    <img src={imgUrl(currentPage.imageUrl)} alt="Page illustration" className="w-full h-full object-cover" />
+                    <img src={imgUrl(currentPage.imageUrl)} alt="Page illustration" className="w-full h-full object-contain" />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center bg-accent/5">
                       <Sparkles className="w-20 h-20 text-accent/20" />
