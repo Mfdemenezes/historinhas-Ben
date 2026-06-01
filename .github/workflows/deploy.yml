@@ -37,7 +37,7 @@ jobs:
       - name: Build
         run: npx vite build
         env:
-          VITE_BASE_URL: /historinhas-Ben/
+          VITE_BASE_URL: /
           VITE_STATIC_MODE: "true"
 
       - name: Configurar Pages
