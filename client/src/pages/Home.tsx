@@ -46,13 +46,23 @@ export default function Home() {
             <span className="text-primary">Benjamin</span>
           </motion.h1>
 
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.15 }}
+            className="inline-flex items-center gap-2 bg-primary/10 text-primary px-4 py-1.5 rounded-full font-bold text-sm mb-3"
+          >
+            <Book className="w-4 h-4" />
+            <span>Kit 1 · 5 histórias</span>
+          </motion.div>
+
           <motion.p
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.2 }}
             className="text-xl text-muted-foreground max-w-lg"
           >
-            Escolha um livro para começar sua aventura! 18 histórias para ler juntos 💛
+            Escolha um livro para começar sua aventura! 💛
           </motion.p>
         </div>
       </header>

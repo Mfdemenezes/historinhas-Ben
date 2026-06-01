@@ -1,128 +1,48 @@
 [
   {
-    "id": 1,
-    "title": "A Aventura do Benjamin e a Poça Misteriosa",
-    "description": "Uma história sobre curiosidade e cautela",
-    "coverImage": "/images/capa_01.png",
+    "id": 13,
+    "title": "Benjamin e o Botão do \"Agora!\"",
+    "description": "Uma história sobre impulsividade",
+    "coverImage": "/images/capa_13.png",
     "pages": [
       {
-        "id": 1,
-        "storyId": 1,
+        "id": 66,
+        "storyId": 13,
         "pageNumber": 1,
-        "content": "Benjamin era um menino curioso. 🌟\n\nEle adorava correr pelo quintal depois da chuva, pular nas poças e observar tudo ao seu redor.\n\nPara Benjamin, cada poça era um mistério esperando para ser descoberto.",
-        "imageUrl": "/images/img1-1.png",
+        "content": "Benjamin acordou com uma sensação estranha.\n\nParecia que tinha um botão invisível dentro dele. Ninguém via. Só ele sentia.\n\nToda vez que Benjamin queria alguma coisa, o botão fazia:\n\n🔴 \"PIIM!\"\n\nE a vontade virava pressa.\n\n— \"Quero brincar AGORA!\" PIIM!\n— \"Quero fazer do meu jeito AGORA!\" PIIM!\n— \"Não quero esperar!\" PIIM!",
+        "imageUrl": "/images/capa_13.png",
         "isFinalDrawing": 0
       },
       {
-        "id": 2,
-        "storyId": 1,
+        "id": 67,
+        "storyId": 13,
         "pageNumber": 2,
-        "content": "Um dia, ele viu uma poça de água diferente perto do portão.\n\nEla brilhava como um espelho e parecia chamar:\n\n— \"Vem olhar aqui…\" ✨\n\nBenjamin deu um passo na direção dela. O coração bateu mais rápido.",
-        "imageUrl": "/images/img1-2.png",
+        "content": "Na cozinha, a mamãe disse: — \"Benjamin, espera um pouquinho que o suco está cheio.\"\n\nMas o botão fez: PIIM! E Benjamin pegou o copo com uma mão só.\n\nO copo escorregou. Ploc! Suco no chão. 🥤\n\nA mamãe respirou fundo e disse: — \"Às vezes, rápido demais vira bagunça.\"\n\nMais tarde, tropeçou num carrinho que não tinha guardado. 👟 Oops! 😰",
+        "imageUrl": "/images/capa_13.png",
         "isFinalDrawing": 0
       },
       {
-        "id": 3,
-        "storyId": 1,
+        "id": 68,
+        "storyId": 13,
         "pageNumber": 3,
-        "content": "Benjamin chegou mais pertinho…\n\nMas então lembrou do que a mamãe sempre dizia:\n\n— \"Antes de ir, olha bem. Antes de tocar, pergunta.\" 🤔\n\nEle parou. Respirou fundo. E olhou com atenção.",
-        "imageUrl": "/images/img1-3.png",
+        "content": "Benjamin sentou no chão e pensou. Ele fechou os olhos e imaginou dois botões dentro dele:\n\n🔴 Um era vermelho e gritava: \"AGORA! AGORA! AGORA!\"\n\n🔵 O outro era azul e falava baixinho: \"ESCUTA. PENSA. ESPERA.\"\n\nBenjamin percebeu que quase sempre apertava o botão vermelho. Mas o botão azul… fazia o coração ficar mais calmo.",
+        "imageUrl": "/images/capa_13.png",
         "isFinalDrawing": 0
       },
       {
-        "id": 4,
-        "storyId": 1,
+        "id": 69,
+        "storyId": 13,
         "pageNumber": 4,
-        "content": "Curioso, Benjamin pegou um gravetinho e encostou na poça.\n\nPloc! 💧\n\nA água se mexeu… e ele percebeu uma coisa:\n\nA poça era funda. Muito mais funda do que parecia!\n\nSe ele tivesse pulado sem pensar…",
-        "imageUrl": "/images/img1-4.png",
+        "content": "Naquela tarde, ele decidiu tentar algo diferente.\n\nQuando quis brincar, esperou a mamãe terminar.\nQuando quis sair, guardou os brinquedos primeiro.\nQuando quis subir, chamou o papai.\n\nNão foi fácil. O botão vermelho ainda fazia: PIIM! às vezes.\n\nMas Benjamin começou a ouvir mais o botão azul. 🔵\n\nE o dia ficou mais calmo e seguro.",
+        "imageUrl": "/images/capa_13.png",
         "isFinalDrawing": 0
       },
       {
-        "id": 5,
-        "storyId": 1,
+        "id": 70,
+        "storyId": 13,
         "pageNumber": 5,
-        "content": "Se Benjamin tivesse pulado, teria molhado toda a roupa, escorregado e se assustado.\n\nMas como ele foi devagar e pensou primeiro, ficou só com o coração batendo rápido…\n\nE um sorrisinho de alívio no rosto. 😊",
-        "imageUrl": "/images/img1-5.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 6,
-        "storyId": 1,
-        "pageNumber": 6,
-        "content": "Então ele correu para contar para a mamãe:\n\n— \"Ainda bem que eu testei antes, né?\"\n\nA mamãe deu um abraço apertado e disse com carinho:\n\n— \"Os exploradores inteligentes sempre olham, pensam e pedem ajuda.\" 🤗",
-        "imageUrl": "/images/img1-6.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 7,
-        "storyId": 1,
-        "pageNumber": 7,
-        "content": "Naquele dia, Benjamin aprendeu uma coisa muito importante:\n\n✨ Nem tudo que parece brincadeira é seguro.\n\nE ser cuidadoso também é ser corajoso. 💛",
-        "imageUrl": "/images/img1-7.png",
-        "isFinalDrawing": 1
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "title": "Benjamin e o Cavalo do Coração Valente",
-    "description": "Uma história sobre coragem e perseverança",
-    "coverImage": "/images/capa_02.png",
-    "pages": [
-      {
-        "id": 8,
-        "storyId": 2,
-        "pageNumber": 1,
-        "content": "Benjamin tinha energia de foguete. 🚀\n\nEle corria, pulava e falava rápido — e às vezes o coração dele parecia correr junto.\n\nA mamãe e o papai pensaram numa ideia:\n\n— \"Que tal aula de equitação? Os cavalos ajudam a gente a ficar mais calmo.\" 🐴",
-        "imageUrl": "/images/img2-1.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 9,
-        "storyId": 2,
-        "pageNumber": 2,
-        "content": "Benjamin gostou da ideia. Ele sempre gostou de cavalos. Quando via um, os olhos dele brilhavam como sol de manhã.\n\nNa primeira aula, ele ficou um pouco nervoso… mas adorou. Na segunda, já estava mais confiante. E na terceira… aconteceu uma coisa diferente. 🌟",
-        "imageUrl": "/images/img2-2.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 10,
-        "storyId": 2,
-        "pageNumber": 3,
-        "content": "O cavalo era grande e bonito. O professor estava ao lado, segurando a corda. Benjamin subiu, segurou firme e começou a andar.\n\nDe repente, o cavalo se assustou com alguma coisa e se sacudiu. Benjamin ainda não estava com as pernas tão firmes e… escorregou.",
-        "imageUrl": "/images/img2-3.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 11,
-        "storyId": 2,
-        "pageNumber": 4,
-        "content": "Ploft! Caiu no chão.\n\nNão foi um tombo muito forte, mas foi um susto grande. O coração dele bateu: tum-tum-tum.\n\nO professor perguntou: — \"Você está bem?\"\n\nEle estava. Mas ficou com vontade de chorar. 😰",
-        "imageUrl": "/images/img2-4.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 12,
-        "storyId": 2,
-        "pageNumber": 5,
-        "content": "O professor disse com calma:\n\n— \"Cair faz parte de aprender. Os corajosos não são os que nunca caem.\n\nSão os que levantam.\" 💪\n\nBenjamin respirou fundo. Olhou para o cavalo. E disse:\n\n— \"Eu quero tentar de novo.\"",
-        "imageUrl": "/images/img2-5.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 13,
-        "storyId": 2,
-        "pageNumber": 6,
-        "content": "Com ajuda, ele subiu outra vez. O cavalo andou bem devagar. E Benjamin sorriu.\n\nNão porque estava perfeito. Mas porque não desistiu.\n\nSó no final da aula, ele contou tudo para a mamãe, com os olhos brilhando. 🌟",
-        "imageUrl": "/images/img2-6.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 14,
-        "storyId": 2,
-        "pageNumber": 7,
-        "content": "Naquele dia, Benjamin aprendeu:\n\n✨ Coragem não é nunca cair.\n\nCoragem é levantar e continuar fazendo o que a gente ama. 💛",
-        "imageUrl": "/images/img2-7.png",
+        "content": "No fim do dia, Benjamin disse:\n\n— \"O botão do 'agora' é barulhento… Mas o botão do 'escutar' é mais inteligente.\"\n\nA mamãe abraçou ele e respondeu: — \"Escutar protege. Esperar ensina. E pensar ajuda a gente a crescer.\"\n\nBenjamin aprendeu:\n\n✨ Parar para pensar faz tudo ficar melhor! 💛",
+        "imageUrl": "/images/capa_13.png",
         "isFinalDrawing": 1
       }
     ]
@@ -240,526 +160,6 @@
     ]
   },
   {
-    "id": 5,
-    "title": "Benjamin e o Relógio da Vez",
-    "description": "Uma história sobre paciência e compartilhar",
-    "coverImage": "/images/capa_05.png",
-    "pages": [
-      {
-        "id": 27,
-        "storyId": 5,
-        "pageNumber": 1,
-        "content": "Benjamin gostava muito de brincar. Quando ele queria um brinquedo, queria agora. 🎮\n\nUm dia, a mamãe levou Benjamin para brincar no parquinho. Tinha escorregador, balanço e uma caixa cheia de brinquedos coloridos.\n\nBenjamin correu até o balanço. Depois quis a bola. Depois quis o caminhão. Depois quis tudo ao mesmo tempo.\n\n— \"É minha vez! É minha vez!\" ele dizia.",
-        "imageUrl": "/images/img5-1.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 28,
-        "storyId": 5,
-        "pageNumber": 2,
-        "content": "De repente, Benjamin viu algo diferente perto do banco. Era um relógio grande e sorridente, com ponteiros coloridos. ⏰\n\nO relógio piscou e disse: — \"Eu sou o Relógio da Vez. Eu ajudo as brincadeiras a ficarem mais felizes.\"\n\nBenjamin franziu a testa: — \"Como assim?\"\n\nO relógio explicou: — \"Quando todo mundo quer tudo ao mesmo tempo, a brincadeira fica bagunçada. Mas quando cada um espera a sua vez, todo mundo consegue brincar.\"",
-        "imageUrl": "/images/img5-2.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 29,
-        "storyId": 5,
-        "pageNumber": 3,
-        "content": "O relógio apontou para o balanço: — \"Agora é a vez do seu amigo.\"\n\nBenjamin ficou com vontade de dizer \"não\". O coração bateu tum-tum. Mas ele respirou fundo… e desceu do balanço.\n\n— \"Tudo bem… pode ir.\"\n\nO amigo sorriu e foi brincar. Depois, quando o relógio disse \"Que tal emprestar o caminhão?\", Benjamin pensou… e respondeu:\n\n— \"Tá bom. Você pode brincar também.\" 🙂",
-        "imageUrl": "/images/img5-3.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 30,
-        "storyId": 5,
-        "pageNumber": 4,
-        "content": "E sabe o que aconteceu? A brincadeira ficou mais divertida. Teve risada. Teve corrida. Teve vez para todo mundo. 🎉\n\nQuando estava na hora de ir embora, Benjamin procurou o relógio. Mas ele não estava mais lá.\n\nA mamãe sorriu e disse: — \"Acho que agora o Relógio da Vez mora no seu coração.\"",
-        "imageUrl": "/images/img5-4.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 31,
-        "storyId": 5,
-        "pageNumber": 5,
-        "content": "Benjamin sorriu também.\n\nNaquele dia, ele aprendeu uma coisa muito importante:\n\n✨ Esperar a vez e dividir não tiram a brincadeira.\n\nFazem a brincadeira ficar ainda melhor. 💛",
-        "imageUrl": "/images/img5-5.png",
-        "isFinalDrawing": 1
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "title": "Benjamin e a Fábrica do Tempo que Quase Parou",
-    "description": "Uma história sobre ajudar em casa",
-    "coverImage": "/images/capa_06.png",
-    "pages": [
-      {
-        "id": 32,
-        "storyId": 6,
-        "pageNumber": 1,
-        "content": "Benjamin tinha muita energia. Ele gostava de brincar, correr e espalhar brinquedos pela casa como se fossem pistas de um grande jogo. ⚡\n\nMas naquela manhã, a casa parecia… cansada.\n\nA mamãe andava rápido de um lado pro outro. Tinha roupa pra guardar, coisas pra organizar e horários pra cumprir.\n\nDe repente, o relógio da sala fez: \"TIC… TOC… TIIIC…\" E depois… \"PLOFT!\" O ponteiro parou.",
-        "imageUrl": "/images/img6-1.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 33,
-        "storyId": 6,
-        "pageNumber": 2,
-        "content": "De lá saiu um personagem engraçado com chapéu e gravata torta, chamado Senhor Tempo. ⏰😴\n\n— \"Ai, ai, ai… A Fábrica do Tempo está ficando bagunçada! Quando as coisas ficam fora do lugar e ninguém ajuda, o tempo fica cansado.\"\n\nBenjamin arregalou os olhos: — \"O tempo fica cansado?\"\n\n— \"Fica sim! Quando os brinquedos não são guardados e ninguém ajuda, as engrenagens quase quebram.\"",
-        "imageUrl": "/images/img6-2.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 34,
-        "storyId": 6,
-        "pageNumber": 3,
-        "content": "— \"E como a gente ajuda o tempo?\", perguntou Benjamin.\n\nO Senhor Tempo sorriu: — \"Cada brinquedo guardado ajuda uma engrenagem. Cada vez que você ajuda em casa, o tempo fica mais leve.\"\n\nBenjamin pensou. Olhou para o quarto. Olhou para os brinquedos no chão. E disse:\n\n— \"Eu posso tentar.\"\n\nE tentou. Guardou os brinquedos. 🧸 Arrumou o quarto. 🛏️ Foi fazer as tarefas na hora combinada.",
-        "imageUrl": "/images/img6-3.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 35,
-        "storyId": 6,
-        "pageNumber": 4,
-        "content": "Lá dentro do relógio, as engrenagens começaram a girar de novo: \"TIC… TOC… TIC… TOC…\"\n\nMais tarde, a mamãe conseguiu sentar um pouquinho com Benjamin para brincar.\n\nEla abraçou ele e disse com carinho:\n\n— \"Quando você ajuda, sobra tempo pra gente ficar junto.\" 💕",
-        "imageUrl": "/images/img6-4.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 36,
-        "storyId": 6,
-        "pageNumber": 5,
-        "content": "Benjamin sorriu.\n\nE naquele dia, ele aprendeu uma coisa muito importante:\n\n✨ Ajudar não tira tempo da brincadeira.\n\nAjudar cria mais tempo para ficar com quem a gente ama. 💛⏰✨",
-        "imageUrl": "/images/img6-5.png",
-        "isFinalDrawing": 1
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "title": "Benjamin e Amora, Juntos no Coração",
-    "description": "Uma história sobre saudade e amor",
-    "coverImage": "/images/capa_07.png",
-    "pages": [
-      {
-        "id": 37,
-        "storyId": 7,
-        "pageNumber": 1,
-        "content": "Benjamin tinha uma cachorrinha chamada Amora. 🐶💜\n\nEla era pequena, fofa e tinha o rabinho mais feliz do mundo.\n\nOnde Benjamin ia, Amora ia atrás. Se ele corria, ela corria. Se ele sentava, ela sentava pertinho. Se ele ria, ela abanava o rabo.\n\nEles eram assim: um nunca ficava muito longe do outro.",
-        "imageUrl": "/images/img7-1.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 38,
-        "storyId": 7,
-        "pageNumber": 2,
-        "content": "Mas um dia, a família precisou mudar de casa.\n\nA nova casa era diferente. E, naquela casa, Amora não podia ficar.\n\nBenjamin não entendeu muito bem no começo. Ele só sentiu o coração apertar.\n\n— \"Mas ela sempre fica comigo…\" — disse ele, abraçando Amora bem forte.\n\nAmora foi morar em outro lugar. Antes de ir, ela lambeu o rosto de Benjamin e abanou o rabinho, como se dissesse: — \"Eu te amo.\" 😢",
-        "imageUrl": "/images/img7-2.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 39,
-        "storyId": 7,
-        "pageNumber": 3,
-        "content": "Nos primeiros dias, Benjamin procurava Amora pela casa. O coração sentia saudade.\n\nMas, aos poucos, ele começou a lembrar das coisas boas: as corridas no quintal, as brincadeiras, os cochilos juntinhos.\n\nA mamãe disse com carinho:\n\n— \"O amor não vai embora quando a gente se separa.\n\nEle só muda de lugar.\" 💕",
-        "imageUrl": "/images/img7-3.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 40,
-        "storyId": 7,
-        "pageNumber": 4,
-        "content": "Benjamin pensou nisso.\n\nUm dia, ele desenhou a Amora. Colocou o desenho perto da cama. E disse baixinho:\n\n— \"Onde eu estiver, você está no meu coração.\" 🎨❤️\n\nE sabe de uma coisa? Mesmo longe, Amora continuava sendo a cachorrinha do Benjamin. E Benjamin continuava sendo o menino da Amora.",
-        "imageUrl": "/images/img7-4.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 41,
-        "storyId": 7,
-        "pageNumber": 5,
-        "content": "Porque alguns amigos nunca deixam de seguir a gente.\n\nEles só aprendem a morar dentro do coração. 🐶💛✨",
-        "imageUrl": "/images/img7-5.png",
-        "isFinalDrawing": 1
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "title": "Benjamin e a Capa da Proteção",
-    "description": "Uma história sobre fé e segurança",
-    "coverImage": "/images/capa_08.png",
-    "pages": [
-      {
-        "id": 42,
-        "storyId": 8,
-        "pageNumber": 1,
-        "content": "Era hora de dormir, e o quarto do Benjamin já estava quase todo pronto para a noite. 🌙\n\nO pijama estava quentinho, o ursinho estava no travesseiro e a luz do abajur deixava tudo com um tom dourado e calmo.\n\nMesmo assim, Benjamin ainda se mexia na cama.\n\n— Mamãe… — ele chamou baixinho — quem cuida de mim quando eu durmo?",
-        "imageUrl": "/images/capa_08.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 43,
-        "storyId": 8,
-        "pageNumber": 2,
-        "content": "A mamãe sentou ao lado da cama, fez um carinho no cabelo dele e respondeu com amor:\n\n— \"Deus cuida de você o tempo todo, meu filho. Mesmo quando você está dormindo, Ele não dorme.\" ✨\n\nBenjamin pensou nisso. Olhou para o teto… para a porta do quarto… e fechou os olhos, tentando imaginar como Deus cuidava dele.",
-        "imageUrl": "/images/capa_08.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 44,
-        "storyId": 8,
-        "pageNumber": 3,
-        "content": "De repente, na imaginação dele, algo muito bonito começou a acontecer.\n\nUma luz suave, brilhante como vaga-lume, foi formando uma capa enorme e macia, feita de fios de estrelas e pedacinhos de nuvem. ⭐🛏️⭐\n\nA capa desceu devagarinho e cobriu a cama inteira. Quando encostou nele, Benjamin sentiu o coração ficar quentinho e calmo.",
-        "imageUrl": "/images/capa_08.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 45,
-        "storyId": 8,
-        "pageNumber": 4,
-        "content": "Na imaginação dele, pequenos anjinhos vinham ajeitar a capa nos cantinhos da cama. Um deu um sorriso e disse: — \"Pronto. Agora você pode descansar tranquilo.\"\n\nBenjamin juntou as mãozinhas e falou bem baixinho:\n\n— \"Obrigado, Papai do Céu, por cuidar de mim, da mamãe e da nossa casa.\" 🙏",
-        "imageUrl": "/images/capa_08.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 46,
-        "storyId": 8,
-        "pageNumber": 5,
-        "content": "A mamãe deu um beijo de boa noite, apagou a luz e fechou a porta devagar.\n\nDebaixo da Capa da Proteção, Benjamin dormiu um sono profundo, calmo e cheio de sonhos bonitos.\n\nSabendo que estava guardado por um amor que nunca dorme. 🌙✨💛",
-        "imageUrl": "/images/capa_08.png",
-        "isFinalDrawing": 1
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "title": "Benjamin e o Jardim da Paciência",
-    "description": "Uma história sobre esperar com confiança",
-    "coverImage": "/images/capa_09.png",
-    "pages": [
-      {
-        "id": 47,
-        "storyId": 9,
-        "pageNumber": 1,
-        "content": "Numa certa manhã, Benjamin acordou com o coração apressado. ⏰💨\n\nTudo parecia demorar mais do que ele queria.\n\nO sol demorava para entrar no quarto. O leite demorava para esfriar. O cadarço parecia embolar de propósito.\n\n— Por que tudo demora tanto? — ele perguntou, cruzando os braços.\n\nA mamãe se agachou na frente dele e disse: — \"Porque algumas coisas precisam de tempo para ficarem prontas do jeito mais bonito.\"",
-        "imageUrl": "/images/capa_09.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 48,
-        "storyId": 9,
-        "pageNumber": 2,
-        "content": "Mais tarde, eles foram ao Jardim da Paciência. Era um jardim enorme, com portões de madeira e flores de todas as cores.\n\nNo primeiro caminho, encontraram um jardineiro de barba branca que regava a terra com calma.\n\n— O que o senhor está fazendo? — Benjamin perguntou.\n\n— Ajudando as sementes a acordarem.\n\n— \"Mas eu não estou vendo nada!\"\n\nO jardineiro sorriu: — \"Debaixo da terra, muita coisa já está acontecendo. Só que a gente não vê ainda.\" 🌱",
-        "imageUrl": "/images/capa_09.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 49,
-        "storyId": 9,
-        "pageNumber": 3,
-        "content": "Mais adiante, chegaram perto de uma árvore cheia de casulos pendurados. Um deles começou a se mexer.\n\nUma borboleta estava tentando sair, devagar, com muito esforço.\n\nBenjamin deu um passo à frente para ajudar, mas a mamãe segurou sua mão.\n\n— Se a gente apressar, ela não fica forte para voar.\n\nEles esperaram em silêncio. Depois de um tempinho, a borboleta abriu as asas e voou, desenhando um caminho colorido no ar. 🦋",
-        "imageUrl": "/images/capa_09.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 50,
-        "storyId": 9,
-        "pageNumber": 4,
-        "content": "No fim do jardim, havia um banco embaixo de uma árvore grande. Eles se sentaram ali. O vento fazia as folhas dançarem.\n\n— Mamãe… — Benjamin disse — então esperar não é perder tempo?\n\nA mamãe sorriu e respondeu:\n\n— \"Não. Esperar é confiar que as coisas estão acontecendo, mesmo quando a gente ainda não vê.\" 🙂",
-        "imageUrl": "/images/capa_09.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 51,
-        "storyId": 9,
-        "pageNumber": 5,
-        "content": "Na volta para casa, Benjamin amarrou o tênis com mais calma. Esperou o leite esfriar sem reclamar.\n\nE percebeu que, dentro dele, também tinha começado a crescer um pedacinho de paciência.\n\n✨ Esperar não é perder tempo. É confiar que as coisas estão acontecendo. 🌱💛",
-        "imageUrl": "/images/capa_09.png",
-        "isFinalDrawing": 1
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "title": "Benjamin e o Segredo de Respirar Tranquilo",
-    "description": "Uma história sobre acalmar a ansiedade",
-    "coverImage": "/images/capa_10.png",
-    "pages": [
-      {
-        "id": 52,
-        "storyId": 10,
-        "pageNumber": 1,
-        "content": "Numa tarde bem calma, Benjamin estava brincando no tapete da sala quando sentiu o peito um pouquinho apertado. 😟\n\nEle parou, colocou a mão no peito e chamou: — Mamãe…\n\nA mamãe veio na hora, se agachou ao lado dele e perguntou com voz tranquila: — \"O que foi, meu amor?\"\n\n— Parece que meu ar ficou curtinho — disse Benjamin.\n\nA mamãe fez um carinho e falou: — \"Então vamos lembrar do segredo de respirar tranquilo.\"",
-        "imageUrl": "/images/capa_10.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 53,
-        "storyId": 10,
-        "pageNumber": 2,
-        "content": "Ela levou Benjamin até a janela, onde entrava uma luz bonita da tarde.\n\n— Imagina que o ar é um balão invisível — disse ela. — \"A gente enche devagar… e solta bem devagar também.\" 🎈\n\nEles sentaram no chão, pertinho da janela. A mamãe contou:\n\n— \"Vamos encher o balão contando até três… Um… dois… três…\"\n\nBenjamin puxou o ar pelo nariz, bem devagar. Depois soltou pela boca, como se estivesse apagando uma vela de aniversário.",
-        "imageUrl": "/images/capa_10.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 54,
-        "storyId": 10,
-        "pageNumber": 3,
-        "content": "No começo, parecia só uma brincadeira. Mas, aos pouquinhos, o peito foi ficando mais leve. O coração foi batendo mais calmo.\n\nBenjamin fechou os olhos e imaginou que estava enchendo balões de todas as cores: um azul de céu, um verde de jardim, um amarelo de sol.\n\n🌬️ Inspira…\n🌬️ Solta…\n\nCada vez que ele soltava o ar, era como se o medo e o aperto fossem embora junto.\n\n— Mamãe… está ficando melhor — ele disse, com um sorrisinho.",
-        "imageUrl": "/images/capa_10.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 55,
-        "storyId": 10,
-        "pageNumber": 4,
-        "content": "A mamãe sorriu: — \"Viu só? Às vezes, o nosso corpo só precisa que a gente ensine ele a respirar com calma de novo.\"\n\nMais tarde, já deitado, com o ursinho ao lado, Benjamin respirou devagar… soltou devagar… e sentiu o corpo todo relaxar.\n\nE assim, respirando tranquilo, Benjamin dormiu em paz, guardando no coração um segredinho que podia usar sempre que precisasse. 🌙💙",
-        "imageUrl": "/images/capa_10.png",
-        "isFinalDrawing": 1
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "title": "Benjamin e o Amigo que Morava no Bolso",
-    "description": "Uma história sobre amizade",
-    "coverImage": "/images/capa_11.png",
-    "pages": [
-      {
-        "id": 56,
-        "storyId": 11,
-        "pageNumber": 1,
-        "content": "Um dia, Benjamin percebeu uma coisa estranha. O bolso da mochila dele estava… se mexendo.\n\n— \"Ué…?\" — disse Benjamin, olhando com cuidado.\n\nEle colocou a mão devagarzinho dentro do bolso. E tirou de lá um bichinho bem pequenino, com orelhas grandes e um chapéu torto.\n\n— \"Oi! Eu sou o Pipo\", disse o bichinho. — \"E acho que agora sou seu amigo.\" 🐹",
-        "imageUrl": "/images/capa_11.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 57,
-        "storyId": 11,
-        "pageNumber": 2,
-        "content": "Benjamin arregalou os olhos. — \"Você mora no meu bolso?!\"\n\n— \"Moro sim\", respondeu Pipo. \"É quentinho, dá pra ver o mundo e ainda cabe lanche.\"\n\nBenjamin riu.\n\nPipo adorava acompanhar Benjamin em todo lugar. Quando Benjamin ficava triste, Pipo fazia caretas engraçadas. Quando Benjamin caía, Pipo dizia: — \"Levanta, amigo. Eu fico aqui com você.\"\n\nE ensinou: — \"Amigos dividem sorrisos.\" 😊",
-        "imageUrl": "/images/capa_11.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 58,
-        "storyId": 11,
-        "pageNumber": 3,
-        "content": "Um dia, no parquinho, Benjamin viu uma criança sentada sozinha no banco. Ela parecia meio triste.\n\nPipo cutucou o bolso e cochichou: — \"Amigos dividem sorrisos.\"\n\nBenjamin respirou fundo e foi até lá. — \"Quer brincar com a gente?\"\n\nA criança sorriu. — \"Quero!\"\n\nEles brincaram de correr, de escorregar e de inventar histórias. Foi tão divertido que Benjamin até esqueceu de olhar para o bolso. 🌟",
-        "imageUrl": "/images/capa_11.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 59,
-        "storyId": 11,
-        "pageNumber": 4,
-        "content": "Quando chegou em casa, ele procurou Pipo. O bolso estava… vazio.\n\n— \"Pipo?\" — chamou ele, preocupado.\n\nEntão viu um bilhetinho dobrado:\n\n\"Amigos de verdade não moram no bolso. Moram no coração. Agora você já sabe fazer novos amigos. Com carinho, Pipo 💛\" 💌",
-        "imageUrl": "/images/capa_11.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 60,
-        "storyId": 11,
-        "pageNumber": 5,
-        "content": "Benjamin sorriu.\n\nNo dia seguinte, ele voltou ao parquinho. E agora não estava mais sozinho.\n\nPorque ele tinha aprendido uma coisa importante:\n\n✨ Amizade é estar junto, cuidar e convidar o outro para brincar. 💛✨",
-        "imageUrl": "/images/capa_11.png",
-        "isFinalDrawing": 1
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "title": "Benjamin e o Dragão que Soluçava Bolhas",
-    "description": "Uma história divertida sobre ajudar os outros",
-    "coverImage": "/images/capa_12.png",
-    "pages": [
-      {
-        "id": 61,
-        "storyId": 12,
-        "pageNumber": 1,
-        "content": "Benjamin estava brincando no quintal quando ouviu um barulho estranho:\n\n— Glup! Glup! HIC!\n\nEle olhou para trás da árvore… e quase caiu sentado de susto.\n\nTinha um dragão azul ali. Mas não era um dragão assustador. Ele era redondinho, tinha asas pequeninas… e toda vez que soluçava, saíam bolhas de sabão pela boca! 🫧🐉",
-        "imageUrl": "/images/capa_12.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 62,
-        "storyId": 12,
-        "pageNumber": 2,
-        "content": "— HIC! 🫧 — HIC! 🫧🫧\n\nO dragão olhou para Benjamin e disse, meio envergonhado: — \"Oi… acho que comi sabão mágico demais…\"\n\nAs bolhas subiam, desciam, estouravam no nariz do Benjamin e faziam cócegas. Ploc! Plim! Plash!\n\nBenjamin começou a rir. — \"Isso é muito engraçado!\"\n\n— \"Eu preciso de ajuda\", disse o dragão. \"Se eu continuar assim, vou encher o mundo de bolhas!\"",
-        "imageUrl": "/images/capa_12.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 63,
-        "storyId": 12,
-        "pageNumber": 3,
-        "content": "Benjamin pensou. E teve uma ideia:\n\n— \"Quando eu tenho soluço, eu respiro fundo e bebo água.\"\n\nO dragão respirou BEM fundo. — \"Fuuuuuu…\" E tomou um gole de água do balde do quintal.\n\n— HIC! 🫧\n\n— \"Não funcionou…\" — disse ele, meio triste. 💧🌬️\n\nBenjamin então disse: — \"Quando eu estou nervoso, eu rio. Vamos tentar rir?\"",
-        "imageUrl": "/images/capa_12.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 64,
-        "storyId": 12,
-        "pageNumber": 4,
-        "content": "Eles começaram a rir juntos.\n\n— \"Hahahaha!\" — \"Hihihihi!\" — \"Hohohoho!\"\n\nDe tanto rir, o dragão esqueceu de soluçar. Esperaram um pouquinho. Nada. Nenhuma bolha.\n\nO dragão abriu um sorriso enorme. — \"Funcionou!\" 🤪\n\nBenjamin também começou a rir!",
-        "imageUrl": "/images/capa_12.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 65,
-        "storyId": 12,
-        "pageNumber": 5,
-        "content": "De repente, o dragão bateu as asinhas e começou a flutuar.\n\n— \"Obrigado, Benjamin! Se você precisar de bolhas mágicas para brincar, é só me chamar!\"\n\nE POOF! O dragão voou embora, deixando uma última bolha em forma de coração no ar. 🫧💛\n\nBenjamin ficou olhando para o céu e sorriu: — \"Esse foi o dragão mais engraçado do mundo.\" 😂🐉",
-        "imageUrl": "/images/capa_12.png",
-        "isFinalDrawing": 1
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "title": "Benjamin e o Botão do \"Agora!\"",
-    "description": "Uma história sobre impulsividade",
-    "coverImage": "/images/capa_13.png",
-    "pages": [
-      {
-        "id": 66,
-        "storyId": 13,
-        "pageNumber": 1,
-        "content": "Benjamin acordou com uma sensação estranha.\n\nParecia que tinha um botão invisível dentro dele. Ninguém via. Só ele sentia.\n\nToda vez que Benjamin queria alguma coisa, o botão fazia:\n\n🔴 \"PIIM!\"\n\nE a vontade virava pressa.\n\n— \"Quero brincar AGORA!\" PIIM!\n— \"Quero fazer do meu jeito AGORA!\" PIIM!\n— \"Não quero esperar!\" PIIM!",
-        "imageUrl": "/images/capa_13.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 67,
-        "storyId": 13,
-        "pageNumber": 2,
-        "content": "Na cozinha, a mamãe disse: — \"Benjamin, espera um pouquinho que o suco está cheio.\"\n\nMas o botão fez: PIIM! E Benjamin pegou o copo com uma mão só.\n\nO copo escorregou. Ploc! Suco no chão. 🥤\n\nA mamãe respirou fundo e disse: — \"Às vezes, rápido demais vira bagunça.\"\n\nMais tarde, tropeçou num carrinho que não tinha guardado. 👟 Oops! 😰",
-        "imageUrl": "/images/capa_13.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 68,
-        "storyId": 13,
-        "pageNumber": 3,
-        "content": "Benjamin sentou no chão e pensou. Ele fechou os olhos e imaginou dois botões dentro dele:\n\n🔴 Um era vermelho e gritava: \"AGORA! AGORA! AGORA!\"\n\n🔵 O outro era azul e falava baixinho: \"ESCUTA. PENSA. ESPERA.\"\n\nBenjamin percebeu que quase sempre apertava o botão vermelho. Mas o botão azul… fazia o coração ficar mais calmo.",
-        "imageUrl": "/images/capa_13.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 69,
-        "storyId": 13,
-        "pageNumber": 4,
-        "content": "Naquela tarde, ele decidiu tentar algo diferente.\n\nQuando quis brincar, esperou a mamãe terminar.\nQuando quis sair, guardou os brinquedos primeiro.\nQuando quis subir, chamou o papai.\n\nNão foi fácil. O botão vermelho ainda fazia: PIIM! às vezes.\n\nMas Benjamin começou a ouvir mais o botão azul. 🔵\n\nE o dia ficou mais calmo e seguro.",
-        "imageUrl": "/images/capa_13.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 70,
-        "storyId": 13,
-        "pageNumber": 5,
-        "content": "No fim do dia, Benjamin disse:\n\n— \"O botão do 'agora' é barulhento… Mas o botão do 'escutar' é mais inteligente.\"\n\nA mamãe abraçou ele e respondeu: — \"Escutar protege. Esperar ensina. E pensar ajuda a gente a crescer.\"\n\nBenjamin aprendeu:\n\n✨ Parar para pensar faz tudo ficar melhor! 💛",
-        "imageUrl": "/images/capa_13.png",
-        "isFinalDrawing": 1
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "title": "Benjamin e Maria, Minha Princesinha",
-    "description": "Uma história sobre o amor de primo",
-    "coverImage": "/images/capa_14.png",
-    "pages": [
-      {
-        "id": 71,
-        "storyId": 14,
-        "pageNumber": 1,
-        "content": "Quando a Maria nasceu, Benjamin achou que tinha acontecido uma coisa muito importante no mundo.\n\nEle olhou para aquele bebê pequenininho e disse, todo sério:\n\n— \"Ela é o meu bebezinho.\" 👶💕\n\nNaquele dia, Benjamin ganhou uma missão invisível: ser o guardião da princesinha.",
-        "imageUrl": "/images/capa_14.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 72,
-        "storyId": 14,
-        "pageNumber": 2,
-        "content": "Com o tempo, Maria cresceu. Aprendeu a andar. Aprendeu a falar. E aprendeu a chamar Benjamin de: — \"Meu primo!\"\n\nQuando os dois estavam juntos, a casa mudava de jeito. As paredes ficavam mais felizes. Os brinquedos pareciam rir. E até o sofá virava castelo, navio ou montanha. 😄🎉",
-        "imageUrl": "/images/capa_14.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 73,
-        "storyId": 14,
-        "pageNumber": 3,
-        "content": "Mas toda história de castelo tem um momento difícil…\n\nQuando chegava a hora de ir embora, o coração apertava.\n\nMaria fazia carinha triste. Benjamin abraçava forte.\n\n— \"Não vai embora ainda…\"\n— \"Fica mais um pouquinho…\"\n\nÀs vezes, os dois choravam. Porque despedida é difícil quando a gente ama de verdade. 😢💔",
-        "imageUrl": "/images/capa_14.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 74,
-        "storyId": 14,
-        "pageNumber": 4,
-        "content": "Uma vez, Benjamin teve uma ideia. Pegou uma folha de papel e desenhou uma coroa.\n\nColocou no desenho da Maria e disse:\n\n— \"Assim, você continua sendo minha princesinha mesmo quando vai embora.\"\n\nA mamãe disse: — \"Quando a gente ama alguém, esse alguém nunca vai embora de verdade. Ele só aprende a morar dentro da gente.\" 💕",
-        "imageUrl": "/images/capa_14.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 75,
-        "storyId": 14,
-        "pageNumber": 5,
-        "content": "E foi assim.\n\nMesmo quando estavam longe, Benjamin pensava na Maria. E Maria perguntava pelo Benjamin.\n\nE toda vez que eles se reencontravam, o abraço parecia dizer:\n\n— \"A gente ficou separado… mas nunca deixou de ser junto.\" 🤗💛",
-        "imageUrl": "/images/capa_14.png",
-        "isFinalDrawing": 1
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "title": "Benjamin e o Dia em que a Sala Virou Tempestade",
-    "description": "Uma história sobre comportamento na escola",
-    "coverImage": "/images/capa_15.png",
-    "pages": [
-      {
-        "id": 76,
-        "storyId": 15,
-        "pageNumber": 1,
-        "content": "Benjamin gostava muito de ir para a escola. Ele gostava dos amigos, dos brinquedos e do recreio.\n\nMas naquele dia… ele acordou com energia de foguete. 🚀\n\nNa sala, a professora começou a explicar a atividade. E Benjamin começou a conversar. Depois, a falar mais alto. Depois, a brincar de lutinha com o amigo do lado.",
-        "imageUrl": "/images/capa_15.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 77,
-        "storyId": 15,
-        "pageNumber": 2,
-        "content": "Benjamin interrompeu, levantou, quis brincar e não fez a atividade. 🗣️⚔️📝❌\n\nA sala foi ficando barulhenta, bagunçada e meio… triste.\n\nParecia até que tinha passado uma tempestade por ali. ⛈️\n\nA professora tentou explicar de novo. Mas Benjamin não escutou.",
-        "imageUrl": "/images/capa_15.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 78,
-        "storyId": 15,
-        "pageNumber": 3,
-        "content": "A professora se aproximou, se abaixou perto do Benjamin e falou com voz calma:\n\n— \"Benjamin, quando você conversa, briga, manda nos amigos e não escuta, a aula para. E todo mundo perde.\"\n\nBenjamin olhou em volta e viu: um amigo não conseguia fazer a atividade, outro estava chateado, e a professora não conseguia ensinar.\n\nO coração dele fez: tum tum.",
-        "imageUrl": "/images/capa_15.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 79,
-        "storyId": 15,
-        "pageNumber": 4,
-        "content": "Então Benjamin respirou fundo e disse: 🌬️\n\n— \"Desculpa, professora. Eu vou tentar.\"\n\nEle sentou. 🪑 Ouviu. 👂 Fez a atividade. ✅\n\nParou a brincadeira de luta. E quando quis falar, levantou a mão.\n\nA sala ficou mais calma. A professora conseguiu ensinar. Os amigos conseguiram brincar depois, na hora certa.",
-        "imageUrl": "/images/capa_15.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 80,
-        "storyId": 15,
-        "pageNumber": 5,
-        "content": "No final do dia, a professora sorriu e disse:\n\n— \"Viu como quando você ajuda, a sala fica melhor?\"\n\nBenjamin sorriu também.\n\nEle aprendeu:\n\n✨ Escola é lugar de aprender, respeitar e brincar — cada coisa no seu tempo. 🌈",
-        "imageUrl": "/images/capa_15.png",
-        "isFinalDrawing": 1
-      }
-    ]
-  },
-  {
     "id": 16,
     "title": "Benjamin e a Montanha do \"Eu Consigo Sozinho\"",
     "description": "Uma história sobre pedir ajuda",
@@ -808,105 +208,65 @@
     ]
   },
   {
-    "id": 17,
-    "title": "Benjamin e o Mapa do Tesouro da Família",
-    "description": "Uma história sobre família",
-    "coverImage": "/images/capa_17.png",
+    "id": 2,
+    "title": "Benjamin e o Cavalo do Coração Valente",
+    "description": "Uma história sobre coragem e perseverança",
+    "coverImage": "/images/capa_02.png",
     "pages": [
       {
-        "id": 86,
-        "storyId": 17,
+        "id": 8,
+        "storyId": 2,
         "pageNumber": 1,
-        "content": "Benjamin adorava aventuras. Mas a aventura preferida dele não era de dragões nem de monstros… era de descobrir coisas boas.\n\nUm dia, ele acordou e encontrou em cima da mesa um mapa colorido com um coração desenhado no meio.\n\nNo papel estava escrito: \"Tesouro da Família\"\n\nBenjamin arregalou os olhos: — \"Um tesouro?!\" 🗺️",
-        "imageUrl": "/images/capa_17.png",
+        "content": "Benjamin tinha energia de foguete. 🚀\n\nEle corria, pulava e falava rápido — e às vezes o coração dele parecia correr junto.\n\nA mamãe e o papai pensaram numa ideia:\n\n— \"Que tal aula de equitação? Os cavalos ajudam a gente a ficar mais calmo.\" 🐴",
+        "imageUrl": "/images/img2-1.png",
         "isFinalDrawing": 0
       },
       {
-        "id": 87,
-        "storyId": 17,
+        "id": 9,
+        "storyId": 2,
         "pageNumber": 2,
-        "content": "Ele chamou a mamãe e o papai, e os três olharam o mapa juntos. Havia vários X marcados pela casa.\n\nO primeiro X era no quarto:\n🛏️ \"Aqui moram os sonhos e as histórias antes de dormir.\"\n\nO segundo X era na cozinha:\n🍽️ \"Aqui moram os lanches gostosos e as conversas felizes.\"\n\nO terceiro X era na sala:\n🛋️ \"Aqui moram as brincadeiras e as risadas altas.\"",
-        "imageUrl": "/images/capa_17.png",
+        "content": "Benjamin gostou da ideia. Ele sempre gostou de cavalos. Quando via um, os olhos dele brilhavam como sol de manhã.\n\nNa primeira aula, ele ficou um pouco nervoso… mas adorou. Na segunda, já estava mais confiante. E na terceira… aconteceu uma coisa diferente. 🌟",
+        "imageUrl": "/images/img2-2.png",
         "isFinalDrawing": 0
       },
       {
-        "id": 88,
-        "storyId": 17,
+        "id": 10,
+        "storyId": 2,
         "pageNumber": 3,
-        "content": "Benjamin correu para o último X, que era no quintal.\n\nQuando ele chegou lá… tinha uma caixinha especial esperando por ele! 📦✨\n\nO coração bateu mais forte de animação.",
-        "imageUrl": "/images/capa_17.png",
+        "content": "O cavalo era grande e bonito. O professor estava ao lado, segurando a corda. Benjamin subiu, segurou firme e começou a andar.\n\nDe repente, o cavalo se assustou com alguma coisa e se sacudiu. Benjamin ainda não estava com as pernas tão firmes e… escorregou.",
+        "imageUrl": "/images/img2-3.png",
         "isFinalDrawing": 0
       },
       {
-        "id": 89,
-        "storyId": 17,
+        "id": 11,
+        "storyId": 2,
         "pageNumber": 4,
-        "content": "Dentro da caixinha não tinha ouro, nem moedas, nem joias.\n\nTinha um espelho pequeno e um papel escrito:\n\n\"O maior tesouro da casa é a nossa família.\" 👨‍👩‍👦💕\n\nBenjamin olhou no espelho, viu o próprio sorriso, e sentiu um abraço da mamãe e do papai por trás.\n\n— \"Então eu sou parte do tesouro?\" — ele perguntou.\n\n— \"Você é um dos nossos maiores tesouros\", disseram eles.",
-        "imageUrl": "/images/capa_17.png",
+        "content": "Ploft! Caiu no chão.\n\nNão foi um tombo muito forte, mas foi um susto grande. O coração dele bateu: tum-tum-tum.\n\nO professor perguntou: — \"Você está bem?\"\n\nEle estava. Mas ficou com vontade de chorar. 😰",
+        "imageUrl": "/images/img2-4.png",
         "isFinalDrawing": 0
       },
       {
-        "id": 90,
-        "storyId": 17,
+        "id": 12,
+        "storyId": 2,
         "pageNumber": 5,
-        "content": "E naquele dia, Benjamin aprendeu que a maior aventura é viver com quem ama.\n\n✨ Família é o tesouro que não se perde nunca. 💛🏡✨",
-        "imageUrl": "/images/capa_17.png",
-        "isFinalDrawing": 1
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "title": "Benjamin, Lucas e Theo e o Segredo da Floresta Quentinha",
-    "description": "Uma história sobre segurança e pedir ajuda",
-    "coverImage": "/images/capa_18.png",
-    "pages": [
-      {
-        "id": 91,
-        "storyId": 18,
-        "pageNumber": 1,
-        "content": "Era uma manhã bonita, e a floresta estava cheia de sons: passarinhos cantando, folhas dançando com o vento e o sol fazendo luzinhas no chão. 🌳🌳🌳\n\nBenjamin, Lucas e Theo estavam brincando de corrida entre as árvores.\n\nBenjamin era o mais rápido.\nLucas era o mais forte.\nTheo era o mais curioso.",
-        "imageUrl": "/images/capa_18.png",
+        "content": "O professor disse com calma:\n\n— \"Cair faz parte de aprender. Os corajosos não são os que nunca caem.\n\nSão os que levantam.\" 💪\n\nBenjamin respirou fundo. Olhou para o cavalo. E disse:\n\n— \"Eu quero tentar de novo.\"",
+        "imageUrl": "/images/img2-5.png",
         "isFinalDrawing": 0
       },
       {
-        "id": 92,
-        "storyId": 18,
-        "pageNumber": 2,
-        "content": "De repente, Theo parou e disse: — \"Vocês estão sentindo esse cheirinho?\"\n\nNo ar tinha um cheiro diferente, meio quentinho, meio esquisito.\n\nEles caminharam devagar e viram algo estranho: uma fumacinha cinza subia atrás de umas árvores. 💨\n\nLucas colocou a mão numa pedra e falou: — \"Está quente!\" 🔥",
-        "imageUrl": "/images/capa_18.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 93,
-        "storyId": 18,
-        "pageNumber": 3,
-        "content": "Benjamin ficou sério e disse:\n\n— \"Quando tem fumaça e coisa quente, pode ser fogo. Fogo é perigoso.\n\nA gente NÃO chega perto.\n\nA gente vai para um lugar seguro e chama ajuda!\" 🚨\n\nTheo arregalou os olhos: — \"E agora?\"\n\n— \"A gente corre!\"",
-        "imageUrl": "/images/capa_18.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 94,
-        "storyId": 18,
-        "pageNumber": 4,
-        "content": "Os três correram juntos por um caminho até chegar numa parte da floresta onde o ar estava fresquinho e limpo.\n\nLá, eles encontraram bombeiros com capacetes e mangueiras.\n\n— \"Tem fumaça lá atrás das árvores!\" — contou Theo.\n\n— \"Vocês fizeram muito bem em sair de perto\", disse um dos bombeiros. 🚒👨‍🚒",
-        "imageUrl": "/images/capa_18.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 95,
-        "storyId": 18,
-        "pageNumber": 5,
-        "content": "Os bombeiros foram correndo e logo… shhhhh!\n\nA água apagou o fogo pequeno que estava começando.\n\nDepois de um tempo, a floresta ficou calma de novo. O sol voltou a brilhar forte, e os passarinhos voltaram a cantar.\n\nLucas sorriu: — \"Ainda bem que a gente não foi curioso demais.\"\n\nTheo riu: — \"Ser curioso é bom… mas ser cuidadoso é melhor!\" 🦸",
-        "imageUrl": "/images/capa_18.png",
-        "isFinalDrawing": 0
-      },
-      {
-        "id": 96,
-        "storyId": 18,
+        "id": 13,
+        "storyId": 2,
         "pageNumber": 6,
-        "content": "E Benjamin completou:\n\n— \"Herói de verdade é quem sabe pedir ajuda.\"\n\nE os três voltaram a brincar, felizes, sabendo que cuidar da floresta é cuidar de todo mundo. 🌳💛",
-        "imageUrl": "/images/capa_18.png",
+        "content": "Com ajuda, ele subiu outra vez. O cavalo andou bem devagar. E Benjamin sorriu.\n\nNão porque estava perfeito. Mas porque não desistiu.\n\nSó no final da aula, ele contou tudo para a mamãe, com os olhos brilhando. 🌟",
+        "imageUrl": "/images/img2-6.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 14,
+        "storyId": 2,
+        "pageNumber": 7,
+        "content": "Naquele dia, Benjamin aprendeu:\n\n✨ Coragem não é nunca cair.\n\nCoragem é levantar e continuar fazendo o que a gente ama. 💛",
+        "imageUrl": "/images/img2-7.png",
         "isFinalDrawing": 1
       }
     ]
