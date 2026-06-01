@@ -42,8 +42,9 @@ export default function Home() {
             transition={{ delay: 0.1 }}
             className="text-4xl sm:text-5xl md:text-7xl font-extrabold text-foreground mb-4 font-display tracking-tight"
           >
-            Histórias do<br />
-            <span className="text-primary">Coração</span>
+            <span style={{ color: "#163d6b" }}>Histórias</span>{" "}
+            <span style={{ color: "#5e7f3e" }}>do</span><br />
+            <span style={{ color: "#d84a4a" }}>Coração</span>
           </motion.h1>
 
           <motion.div
