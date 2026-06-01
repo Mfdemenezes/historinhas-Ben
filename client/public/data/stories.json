@@ -193,47 +193,55 @@
   },
   {
     "id": 16,
-    "title": "Benjamin e a Montanha do \"Eu Consigo Sozinho\"",
-    "description": "Uma história sobre pedir ajuda",
+    "title": "Benjamin e a Palavra que Conserta",
+    "description": "Uma história sobre amizade e o poder do pedido de desculpas",
     "coverImage": "/images/capa_16.png",
     "pages": [
       {
-        "id": 81,
+        "id": 107,
         "storyId": 16,
         "pageNumber": 1,
-        "content": "Benjamin adorava dizer uma frase mágica:\n\n— \"Eu consigo sozinho!\" 💪\n\nUm dia, a família foi passear numa montanha verdinha, com trilhas coloridas e placas com desenhos.\n\nA mamãe falou: — \"Benjamin, vamos pela trilha do coelhinho. É a mais segura.\"\n\nMas Benjamin olhou para outra trilha, com pedras brilhantes.\n\n— \"Eu quero ir por ali! Eu consigo sozinho!\" — disse ele, todo confiante.",
+        "content": "Era um fim de tarde tranquilo, daqueles em que a casa vai ficando mais silenciosa aos poucos, e a luz lá fora começa a mudar devagar.\n\nDentro do quarto, blocos coloridos estavam espalhados pelo chão.\nVermelho, azul, amarelo… parecia uma pequena cidade começando a nascer.\n\nBenjamin estava concentrado.\nA língua um pouquinho de fora, os olhos atentos.\n\nEle empilhava as peças com cuidado.\n\nUma torre alta.\nUma ponte meio tortinha.\nUma casa com porta imaginária.\n\n— \"Essa é a minha cidade!\" — disse, orgulhoso.",
         "imageUrl": "/images/capa_16.png",
         "isFinalDrawing": 0
       },
       {
-        "id": 82,
+        "id": 108,
         "storyId": 16,
         "pageNumber": 2,
-        "content": "Benjamin cruzou os braços e disse: — \"Não! Eu vou sozinho!\"\n\nEle começou a subir. No começo foi fácil. Ele pulou uma pedra, desviou de um galhinho e sorriu:\n\n— \"Viu? Eu consigo!\"\n\nMas logo o caminho ficou estreito e cansativo. As pedras escorregavam e o vento fazia \"fuuu\".\n\nBenjamin tentou mais um pouco… Até que sentou numa pedra e suspirou:\n\n— \"Acho que… não tá tão fácil assim…\" 🏔️😓",
+        "content": "Na sala, dava para ouvir vozes baixas e o som da porta se abrindo: toc…\n\nEra um amigo que tinha chegado para brincar.\n\nPassos pequenos se aproximaram pelo corredor…\naté aparecer na porta do quarto.\n\n— \"Posso brincar com você?\" — perguntou.\n\nBenjamin nem pensou muito.\nO coração ainda estava no meio da construção.\n\n— \"Não! Você vai estragar!\" — respondeu rápido.\n\nAs palavras saíram como um empurrão.\n\nO amigo parou.\nO sorriso sumiu devagar.\n\nE ele se afastou, indo brincar sozinho, em silêncio.",
         "imageUrl": "/images/capa_16.png",
         "isFinalDrawing": 0
       },
       {
-        "id": 83,
+        "id": 109,
         "storyId": 16,
         "pageNumber": 3,
-        "content": "Ele ficou quietinho por um instante. Pensou na mamãe. Pensou no papai. Pensou no caminho do coelhinho.\n\nE então falou baixinho, mas corajoso:\n\n— \"Mãe… você pode me ajudar?\" 🙋\n\nA mamãe apareceu sorrindo, estendeu a mão e disse:\n\n— \"Claro. Pedir ajuda também é ser forte.\"",
+        "content": "O quarto ficou diferente.\n\nMais quieto.\nMais vazio.\n\nBenjamin continuou montando…\nmas algo não encaixava mais.\n\nA torre caiu.\n\nploc.\n\nEle suspirou.\n\nOlhou para o lado.\nViu o amigo brincando sozinho.\n\nE sentiu um aperto estranho no peito…\ncomo quando algo não fica do jeito certo por dentro.\n\nBenjamin pensou no que tinha falado.\nPensou em como o amigo tinha ficado.\n\nE lembrou de algo que já tinha ouvido:\n\n— \"Algumas palavras machucam…\nmas outras podem consertar.\"",
         "imageUrl": "/images/capa_16.png",
         "isFinalDrawing": 0
       },
       {
-        "id": 84,
+        "id": 110,
         "storyId": 16,
         "pageNumber": 4,
-        "content": "Juntos, eles voltaram para a trilha do coelhinho. O caminho era mais tranquilo, tinha flores, borboletas e até um passarinho que fez \"piu piu\" pra eles.\n\nLá em cima, Benjamin viu uma vista linda. O céu parecia gigante, e o coração estava leve. 💕",
+        "content": "Ele respirou fundo.\n\nLevantou devagar.\n\nCaminhou até o amigo.\n\nParou.\n\nFicou em silêncio por um instante.\n\nE então disse, com a voz mais baixa:\n\n— \"Eu falei errado…\nEu não queria te deixar triste.\nDesculpa.\"\n\nO amigo olhou para ele.\nOs olhos ainda estavam quietinhos.\n\n— \"Eu só queria ajudar…\" — respondeu.\n\nBenjamin assentiu com a cabeça.\n\n— \"Então… quer construir comigo agora?\"\n\nO amigo pensou…\ne sorriu.",
         "imageUrl": "/images/capa_16.png",
         "isFinalDrawing": 0
       },
       {
-        "id": 85,
+        "id": 111,
         "storyId": 16,
         "pageNumber": 5,
-        "content": "Ele abraçou a mamãe e disse:\n\n— \"Eu gosto de tentar sozinho… mas gosto mais de ir com você.\"\n\nJuntos, chegaram ao topo! ⛰️🎉\n\nBenjamin aprendeu que ouvir, escolher bem e pedir ajuda faz a aventura ficar muito melhor. 💛",
+        "content": "Eles voltaram juntos.\n\nA cidade começou de novo.\n\nDessa vez, mais devagar.\nMais forte.\n\nA torre não ficou tão alta…\nmas não caiu.\n\nA ponte ficou mais firme.\nE a casa ganhou duas portas.\n\nBenjamin sorriu.\n\nDessa vez… estava melhor.",
+        "imageUrl": "/images/capa_16.png",
+        "isFinalDrawing": 0
+      },
+      {
+        "id": 112,
+        "storyId": 16,
+        "pageNumber": 6,
+        "content": "Mais tarde, enquanto guardava os blocos, ele percebeu uma coisa importante:\n\nA palavra \"desculpa\" não apaga o que aconteceu…\nmas ela abre espaço para recomeçar.\n\nE naquele dia, Benjamin aprendeu que:\n\nCuidar das amizades também é saber consertar. 💛",
         "imageUrl": "/images/capa_16.png",
         "isFinalDrawing": 1
       }
@@ -249,7 +257,7 @@
         "id": 8,
         "storyId": 2,
         "pageNumber": 1,
-        "content": "Benjamin tinha energia de foguete. 🚀\n\nEle corria, pulava e falava rápido — e às vezes o coração dele parecia correr junto.\n\nA mamãe e o papai pensaram numa ideia:\n\n— \"Que tal aula de equitação? Os cavalos ajudam a gente a ficar mais calmo.\" 🐴",
+        "content": "Benjamin tinha energia de foguete.\nEle corria, pulava, falava rápido e às vezes o coração dele parecia correr junto.\n\nA mamãe e o papai pensaram numa ideia:\n— \"Que tal aula de equitação? Os cavalos ajudam a gente a ficar mais calmo.\"\n\nBenjamin gostou da ideia na hora.\nEle sempre gostou de cavalos.\nQuando via um, os olhos dele brilhavam como sol de manhã.",
         "imageUrl": "/images/img2-1.png",
         "isFinalDrawing": 0
       },
@@ -257,7 +265,7 @@
         "id": 9,
         "storyId": 2,
         "pageNumber": 2,
-        "content": "Benjamin gostou da ideia. Ele sempre gostou de cavalos. Quando via um, os olhos dele brilhavam como sol de manhã.\n\nNa primeira aula, ele ficou um pouco nervoso… mas adorou. Na segunda, já estava mais confiante. E na terceira… aconteceu uma coisa diferente. 🌟",
+        "content": "Na primeira aula, ele ficou um pouco nervoso… mas adorou.\nNa segunda, já estava mais confiante.\nE na terceira… aconteceu uma coisa diferente.\n\nO cavalo era grande, bonito e andava devagar.\nO professor estava ao lado, segurando a corda.\nBenjamin subiu com ajuda, segurou firme e começou a andar.",
         "imageUrl": "/images/img2-2.png",
         "isFinalDrawing": 0
       },
@@ -265,7 +273,7 @@
         "id": 10,
         "storyId": 2,
         "pageNumber": 3,
-        "content": "O cavalo era grande e bonito. O professor estava ao lado, segurando a corda. Benjamin subiu, segurou firme e começou a andar.\n\nDe repente, o cavalo se assustou com alguma coisa e se sacudiu. Benjamin ainda não estava com as pernas tão firmes e… escorregou.",
+        "content": "De repente, o cavalo se assustou com alguma coisa e se sacudiu.\nBenjamin ainda não estava com as pernas tão firmes no cavalo e…\nescorregou.\nE… ploft!\nCaiu no chão.\n\nNão foi um tombo muito forte, mas foi um susto grande.\n\nO coração dele bateu rápido:\ntum-tum-tum.\n\nO professor estava ali pertinho e perguntou:\n— \"Você está bem?\"\n\nBenjamin estava.\nMas os olhos encheram de água.",
         "imageUrl": "/images/img2-3.png",
         "isFinalDrawing": 0
       },
@@ -273,7 +281,7 @@
         "id": 11,
         "storyId": 2,
         "pageNumber": 4,
-        "content": "Ploft! Caiu no chão.\n\nNão foi um tombo muito forte, mas foi um susto grande. O coração dele bateu: tum-tum-tum.\n\nO professor perguntou: — \"Você está bem?\"\n\nEle estava. Mas ficou com vontade de chorar. 😰",
+        "content": "Ele pensou:\n— \"E se eu cair de novo?\"\n— \"E se eu não conseguir?\"\n\nO cavalo ficou ali, quietinho, como se estivesse esperando.\n\nO professor falou com voz calma:\n— \"Cair faz parte de aprender. Os cavaleiros corajosos não são os que nunca caem… são os que levantam.\"\n\nBenjamin respirou fundo.\nOlhou para o cavalo.\nE sentiu uma coisa quentinha no peito.\n\n— \"Eu quero tentar de novo.\"",
         "imageUrl": "/images/img2-4.png",
         "isFinalDrawing": 0
       },
@@ -281,7 +289,7 @@
         "id": 12,
         "storyId": 2,
         "pageNumber": 5,
-        "content": "O professor disse com calma:\n\n— \"Cair faz parte de aprender. Os corajosos não são os que nunca caem.\n\nSão os que levantam.\" 💪\n\nBenjamin respirou fundo. Olhou para o cavalo. E disse:\n\n— \"Eu quero tentar de novo.\"",
+        "content": "Com ajuda do professor, ele subiu outra vez.\nSegurou firme.\nE o cavalo começou a andar… bem devagar.\n\nDessa vez, Benjamin sorriu.\n\nNão porque estava perfeito.\nMas porque não desistiu.",
         "imageUrl": "/images/img2-5.png",
         "isFinalDrawing": 0
       },
@@ -289,7 +297,7 @@
         "id": 13,
         "storyId": 2,
         "pageNumber": 6,
-        "content": "Com ajuda, ele subiu outra vez. O cavalo andou bem devagar. E Benjamin sorriu.\n\nNão porque estava perfeito. Mas porque não desistiu.\n\nSó no final da aula, ele contou tudo para a mamãe, com os olhos brilhando. 🌟",
+        "content": "Quando a aula terminou, ele abraçou o pescoço do cavalo e disse:\n— \"Eu caí… mas eu voltei.\"\n\nSó mais tarde, em casa, ele contou tudo para a mamãe, com os olhos brilhando de orgulho.",
         "imageUrl": "/images/img2-6.png",
         "isFinalDrawing": 0
       },
@@ -297,7 +305,7 @@
         "id": 14,
         "storyId": 2,
         "pageNumber": 7,
-        "content": "Naquele dia, Benjamin aprendeu:\n\n✨ Coragem não é nunca cair.\n\nCoragem é levantar e continuar fazendo o que a gente ama. 💛",
+        "content": "E naquele dia, Benjamin aprendeu uma coisa muito importante:\n\nCoragem não é nunca cair.\n\nCoragem é levantar e continuar fazendo o que a gente ama. 💛",
         "imageUrl": "/images/img2-7.png",
         "isFinalDrawing": 1
       }
