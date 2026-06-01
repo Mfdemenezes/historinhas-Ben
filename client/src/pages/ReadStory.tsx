@@ -91,7 +91,7 @@ export default function ReadStory() {
     <div className="min-h-screen bg-background flex flex-col">
       {/* Navigation Bar */}
       <div className="w-full px-4 py-3 flex items-center border-b bg-white z-50">
-        <Link href="/">
+        <Link href="/biblioteca">
           <Button variant="ghost" className="text-muted-foreground hover:text-primary gap-2">
             <Home className="w-5 h-5" />
             <span className="hidden sm:inline">Biblioteca</span>
@@ -191,9 +191,14 @@ export default function ReadStory() {
             >
               <h2 className="text-4xl font-display font-bold mb-6">Fim</h2>
               <div className="text-5xl mb-6 animate-bounce">🎉</div>
-              <Link href="/">
+              <Link href="/biblioteca">
                 <Button size="lg" className="bg-white text-secondary hover:bg-white/90 font-bold text-lg h-12 px-6 rounded-full shadow-lg">
                   Ler Outra História
+                </Button>
+              </Link>
+              <Link href="/contracapa">
+                <Button size="lg" variant="ghost" className="text-white/80 hover:text-white font-semibold text-sm h-10 px-4 rounded-full">
+                  Mensagem da autora 💛
                 </Button>
               </Link>
             </motion.div>
@@ -338,9 +343,14 @@ export default function ReadStory() {
               >
                 <h2 className="text-6xl font-display font-bold mb-8">Fim</h2>
                 <div className="text-6xl mb-8 animate-bounce">🎉</div>
-                <Link href="/">
+                <Link href="/biblioteca">
                   <Button size="lg" className="bg-white text-secondary hover:bg-white/90 font-bold text-xl h-14 px-8 rounded-full shadow-lg">
                     Ler Outra História
+                  </Button>
+                </Link>
+                <Link href="/contracapa">
+                  <Button size="lg" variant="ghost" className="text-white/80 hover:text-white font-semibold text-base h-12 px-6 rounded-full">
+                    Mensagem da autora 💛
                   </Button>
                 </Link>
               </motion.div>

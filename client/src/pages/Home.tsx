@@ -62,7 +62,7 @@ export default function Home() {
             transition={{ delay: 0.2 }}
             className="text-xl text-muted-foreground max-w-lg"
           >
-            Escolha um livro para começar sua aventura! 💛
+            Escolha uma história para começar! Ler juntos é plantar hoje as raízes de um amanhã melhor. 💛
           </motion.p>
         </div>
       </header>
