@@ -1,48 +1,50 @@
-@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&family=Outfit:wght@400;500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&family=Nunito:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&display=swap');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 :root {
-  /* Playful Palette */
-  --background: 40 100% 97%; /* Soft cream/paper */
-  --foreground: 222 47% 11%;
+  /* Paleta Oficial — Histórias do Coração */
+  --background: 40 50% 93%;        /* Creme Suave #F6F0E4 */
+  --foreground: 213 66% 15%;       /* Azul escuro para texto */
 
-  --primary: 217 91% 52%; /* Vibrant Blue */
+  --primary: 213 66% 25%;          /* Azul Principal #163D6B */
   --primary-foreground: 0 0% 100%;
 
-  --secondary: 190 90% 40%; /* Ocean Blue */
-  --secondary-foreground: 210 40% 98%;
+  --secondary: 0 65% 57%;          /* Vermelho Coração #D84A4A */
+  --secondary-foreground: 0 0% 100%;
 
-  --accent: 45 100% 50%; /* Golden Yellow */
-  --accent-foreground: 222 47% 11%;
+  --accent: 43 72% 59%;            /* Dourado Afeto #E2B74A */
+  --accent-foreground: 213 66% 15%;
 
-  --muted: 40 20% 92%;
-  --muted-foreground: 215 16% 47%;
+  --muted: 40 30% 88%;             /* Tom creme médio */
+  --muted-foreground: 213 20% 45%;
 
-  --destructive: 0 84% 60%;
-  --destructive-foreground: 210 40% 98%;
+  --destructive: 0 65% 57%;
+  --destructive-foreground: 0 0% 100%;
 
-  --border: 40 20% 88%;
-  --input: 40 20% 88%;
-  --ring: 217 91% 52%;
+  --border: 40 25% 83%;
+  --input: 40 25% 83%;
+  --ring: 213 66% 25%;
 
   --radius: 1rem;
 
-  --font-story: 'Comic Neue', cursive;
-  --font-ui: 'Outfit', sans-serif;
+  --font-display: 'Baloo 2', cursive;
+  --font-story: 'Nunito', sans-serif;
+  --font-ui: 'Baloo 2', cursive;
 }
 
 @layer base {
   body {
     @apply bg-background text-foreground antialiased;
-    font-family: var(--font-ui);
-    background-image: radial-gradient(var(--border) 1px, transparent 1px);
+    font-family: var(--font-story);
+    background-image: radial-gradient(hsl(var(--border)) 1px, transparent 1px);
     background-size: 24px 24px;
   }
 
   h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
     @apply font-bold tracking-tight;
   }
 }
