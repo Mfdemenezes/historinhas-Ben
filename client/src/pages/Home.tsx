@@ -42,8 +42,8 @@ export default function Home() {
             transition={{ delay: 0.1 }}
             className="text-4xl sm:text-5xl md:text-7xl font-extrabold text-foreground mb-4 font-display tracking-tight"
           >
-            Livrinhos do<br />
-            <span className="text-primary">Benjamin</span>
+            Histórias do<br />
+            <span className="text-primary">Coração</span>
           </motion.h1>
 
           <motion.div
