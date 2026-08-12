@@ -251,14 +251,14 @@
     "id": 2,
     "title": "Benjamin e o Cavalo do Coração Valente",
     "description": "Uma história sobre coragem e perseverança",
-    "coverImage": "/images/capa_02.png",
+    "coverImage": "/images/capa_02.jpg",
     "pages": [
       {
         "id": 8,
         "storyId": 2,
         "pageNumber": 1,
         "content": "Benjamin tinha energia de foguete.\nEle corria, pulava, falava rápido e às vezes o coração dele parecia correr junto.\n\nA mamãe e o papai pensaram numa ideia:\n— \"Que tal aula de equitação? Os cavalos ajudam a gente a ficar mais calmo.\"\n\nBenjamin gostou da ideia na hora.\nEle sempre gostou de cavalos.\nQuando via um, os olhos dele brilhavam como sol de manhã.",
-        "imageUrl": "/images/img2-1.png",
+        "imageUrl": "/images/img2-1.jpg",
         "isFinalDrawing": 0
       },
       {
@@ -266,7 +266,7 @@
         "storyId": 2,
         "pageNumber": 2,
         "content": "Na primeira aula, ele ficou um pouco nervoso… mas adorou.\nNa segunda, já estava mais confiante.\nE na terceira… aconteceu uma coisa diferente.\n\nO cavalo era grande, bonito e andava devagar.\nO professor estava ao lado, segurando a corda.\nBenjamin subiu com ajuda, segurou firme e começou a andar.",
-        "imageUrl": "/images/img2-2.png",
+        "imageUrl": "/images/img2-2.jpg",
         "isFinalDrawing": 0
       },
       {
@@ -274,7 +274,7 @@
         "storyId": 2,
         "pageNumber": 3,
         "content": "De repente, o cavalo se assustou com alguma coisa e se sacudiu.\nBenjamin ainda não estava com as pernas tão firmes no cavalo e…\nescorregou.\nE… ploft!\nCaiu no chão.\n\nNão foi um tombo muito forte, mas foi um susto grande.\n\nO coração dele bateu rápido:\ntum-tum-tum.\n\nO professor estava ali pertinho e perguntou:\n— \"Você está bem?\"\n\nBenjamin estava.\nMas os olhos encheram de água.",
-        "imageUrl": "/images/img2-3.png",
+        "imageUrl": "/images/img2-3.jpg",
         "isFinalDrawing": 0
       },
       {
@@ -282,7 +282,7 @@
         "storyId": 2,
         "pageNumber": 4,
         "content": "Ele pensou:\n— \"E se eu cair de novo?\"\n— \"E se eu não conseguir?\"\n\nO cavalo ficou ali, quietinho, como se estivesse esperando.\n\nO professor falou com voz calma:\n— \"Cair faz parte de aprender. Os cavaleiros corajosos não são os que nunca caem… são os que levantam.\"\n\nBenjamin respirou fundo.\nOlhou para o cavalo.\nE sentiu uma coisa quentinha no peito.\n\n— \"Eu quero tentar de novo.\"",
-        "imageUrl": "/images/img2-4.png",
+        "imageUrl": "/images/img2-4.jpg",
         "isFinalDrawing": 0
       },
       {
@@ -290,7 +290,7 @@
         "storyId": 2,
         "pageNumber": 5,
         "content": "Com ajuda do professor, ele subiu outra vez.\nSegurou firme.\nE o cavalo começou a andar… bem devagar.\n\nDessa vez, Benjamin sorriu.\n\nNão porque estava perfeito.\nMas porque não desistiu.",
-        "imageUrl": "/images/img2-5.png",
+        "imageUrl": "/images/img2-5.jpg",
         "isFinalDrawing": 0
       },
       {
@@ -298,7 +298,7 @@
         "storyId": 2,
         "pageNumber": 6,
         "content": "Quando a aula terminou, ele abraçou o pescoço do cavalo e disse:\n— \"Eu caí… mas eu voltei.\"\n\nSó mais tarde, em casa, ele contou tudo para a mamãe, com os olhos brilhando de orgulho.",
-        "imageUrl": "/images/img2-6.png",
+        "imageUrl": "/images/img2-6.jpg",
         "isFinalDrawing": 0
       },
       {
@@ -306,7 +306,7 @@
         "storyId": 2,
         "pageNumber": 7,
         "content": "E naquele dia, Benjamin aprendeu uma coisa muito importante:\n\nCoragem não é nunca cair.\n\nCoragem é levantar e continuar fazendo o que a gente ama. 💛",
-        "imageUrl": "/images/img2-7.png",
+        "imageUrl": "/images/img2-7.jpg",
         "isFinalDrawing": 1
       }
     ]

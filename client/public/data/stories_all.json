@@ -67,14 +67,14 @@
     "id": 2,
     "title": "Benjamin e o Cavalo do Coração Valente",
     "description": "Uma história sobre coragem e perseverança",
-    "coverImage": "/images/capa_02.png",
+    "coverImage": "/images/capa_02.jpg",
     "pages": [
       {
         "id": 8,
         "storyId": 2,
         "pageNumber": 1,
         "content": "Benjamin tinha energia de foguete. 🚀\n\nEle corria, pulava e falava rápido — e às vezes o coração dele parecia correr junto.\n\nA mamãe e o papai pensaram numa ideia:\n\n— \"Que tal aula de equitação? Os cavalos ajudam a gente a ficar mais calmo.\" 🐴",
-        "imageUrl": "/images/img2-1.png",
+        "imageUrl": "/images/img2-1.jpg",
         "isFinalDrawing": 0
       },
       {
@@ -82,7 +82,7 @@
         "storyId": 2,
         "pageNumber": 2,
         "content": "Benjamin gostou da ideia. Ele sempre gostou de cavalos. Quando via um, os olhos dele brilhavam como sol de manhã.\n\nNa primeira aula, ele ficou um pouco nervoso… mas adorou. Na segunda, já estava mais confiante. E na terceira… aconteceu uma coisa diferente. 🌟",
-        "imageUrl": "/images/img2-2.png",
+        "imageUrl": "/images/img2-2.jpg",
         "isFinalDrawing": 0
       },
       {
@@ -90,7 +90,7 @@
         "storyId": 2,
         "pageNumber": 3,
         "content": "O cavalo era grande e bonito. O professor estava ao lado, segurando a corda. Benjamin subiu, segurou firme e começou a andar.\n\nDe repente, o cavalo se assustou com alguma coisa e se sacudiu. Benjamin ainda não estava com as pernas tão firmes e… escorregou.",
-        "imageUrl": "/images/img2-3.png",
+        "imageUrl": "/images/img2-3.jpg",
         "isFinalDrawing": 0
       },
       {
@@ -98,7 +98,7 @@
         "storyId": 2,
         "pageNumber": 4,
         "content": "Ploft! Caiu no chão.\n\nNão foi um tombo muito forte, mas foi um susto grande. O coração dele bateu: tum-tum-tum.\n\nO professor perguntou: — \"Você está bem?\"\n\nEle estava. Mas ficou com vontade de chorar. 😰",
-        "imageUrl": "/images/img2-4.png",
+        "imageUrl": "/images/img2-4.jpg",
         "isFinalDrawing": 0
       },
       {
@@ -106,7 +106,7 @@
         "storyId": 2,
         "pageNumber": 5,
         "content": "O professor disse com calma:\n\n— \"Cair faz parte de aprender. Os corajosos não são os que nunca caem.\n\nSão os que levantam.\" 💪\n\nBenjamin respirou fundo. Olhou para o cavalo. E disse:\n\n— \"Eu quero tentar de novo.\"",
-        "imageUrl": "/images/img2-5.png",
+        "imageUrl": "/images/img2-5.jpg",
         "isFinalDrawing": 0
       },
       {
@@ -114,7 +114,7 @@
         "storyId": 2,
         "pageNumber": 6,
         "content": "Com ajuda, ele subiu outra vez. O cavalo andou bem devagar. E Benjamin sorriu.\n\nNão porque estava perfeito. Mas porque não desistiu.\n\nSó no final da aula, ele contou tudo para a mamãe, com os olhos brilhando. 🌟",
-        "imageUrl": "/images/img2-6.png",
+        "imageUrl": "/images/img2-6.jpg",
         "isFinalDrawing": 0
       },
       {
@@ -122,7 +122,7 @@
         "storyId": 2,
         "pageNumber": 7,
         "content": "Naquele dia, Benjamin aprendeu:\n\n✨ Coragem não é nunca cair.\n\nCoragem é levantar e continuar fazendo o que a gente ama. 💛",
-        "imageUrl": "/images/img2-7.png",
+        "imageUrl": "/images/img2-7.jpg",
         "isFinalDrawing": 1
       }
     ]

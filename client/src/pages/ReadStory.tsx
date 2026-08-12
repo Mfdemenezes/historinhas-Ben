@@ -121,9 +121,11 @@ export default function ReadStory() {
               className="flex flex-col items-center justify-center min-h-[70vh] bg-primary text-white text-center p-8 m-4 rounded-3xl shadow-xl"
             >
               {story.coverImage && (
-                <div className="w-36 h-36 rounded-full overflow-hidden border-4 border-white/30 shadow-xl mb-6">
-                  <img src={imgUrl(story.coverImage)} alt="Cover" className="w-full h-full object-cover" />
-                </div>
+                <img
+                  src={imgUrl(story.coverImage)}
+                  alt="Cover"
+                  className="max-h-64 w-auto rounded-2xl overflow-hidden border-4 border-white/30 shadow-xl mb-6"
+                />
               )}
               <h1 className="text-2xl font-display font-bold mb-3 leading-tight">{story.title}</h1>
               <p className="text-sm opacity-90 mb-6">{story.description}</p>
@@ -145,16 +147,24 @@ export default function ReadStory() {
               transition={{ duration: 0.35, ease: "easeInOut" }}
               className="flex flex-col m-4 rounded-3xl overflow-hidden shadow-xl border border-border bg-white"
             >
-              {/* Imagem — altura fixa, sem corte */}
-              <div className="w-full bg-muted relative">
+              {/* Imagem — preenche o espaço sem cortar: fundo desfocado + ilustração inteira */}
+              <div className="w-full aspect-[4/5] max-h-[52vh] bg-muted relative overflow-hidden">
                 {currentPage.imageUrl ? (
-                  <img
-                    src={imgUrl(currentPage.imageUrl)}
-                    alt="Page illustration"
-                    className="w-full h-auto object-contain max-h-72"
-                  />
+                  <>
+                    <img
+                      src={imgUrl(currentPage.imageUrl)}
+                      alt=""
+                      aria-hidden="true"
+                      className="absolute inset-0 w-full h-full object-cover scale-110 blur-2xl opacity-70"
+                    />
+                    <img
+                      src={imgUrl(currentPage.imageUrl)}
+                      alt="Page illustration"
+                      className="relative w-full h-full object-contain"
+                    />
+                  </>
                 ) : (
-                  <div className="w-full h-48 flex items-center justify-center bg-accent/5">
+                  <div className="w-full h-full flex items-center justify-center bg-accent/5">
                     <Sparkles className="w-16 h-16 text-accent/20" />
                   </div>
                 )}
@@ -271,9 +281,11 @@ export default function ReadStory() {
                 className="absolute inset-0 bg-primary rounded-r-3xl rounded-l-md shadow-2xl flex flex-col items-center justify-center p-12 text-white text-center border-l-[12px] border-black/20 origin-left"
               >
                 {story.coverImage && (
-                  <div className="w-64 h-64 rounded-full overflow-hidden border-4 border-white/30 shadow-xl mb-8">
-                    <img src={imgUrl(story.coverImage)} alt="Cover" className="w-full h-full object-cover" />
-                  </div>
+                  <img
+                    src={imgUrl(story.coverImage)}
+                    alt="Cover"
+                    className="max-h-56 w-auto rounded-2xl overflow-hidden border-4 border-white/30 shadow-xl mb-6"
+                  />
                 )}
                 <h1 className="text-5xl font-display font-bold mb-4 drop-shadow-md">{story.title}</h1>
                 <p className="text-xl font-story opacity-90 max-w-2xl">{story.description}</p>
@@ -301,7 +313,19 @@ export default function ReadStory() {
               >
                 <div className="w-1/2 h-full bg-muted relative overflow-hidden">
                   {currentPage.imageUrl ? (
-                    <img src={imgUrl(currentPage.imageUrl)} alt="Page illustration" className="w-full h-full object-contain" />
+                    <>
+                      <img
+                        src={imgUrl(currentPage.imageUrl)}
+                        alt=""
+                        aria-hidden="true"
+                        className="absolute inset-0 w-full h-full object-cover scale-110 blur-2xl opacity-70"
+                      />
+                      <img
+                        src={imgUrl(currentPage.imageUrl)}
+                        alt="Page illustration"
+                        className="relative w-full h-full object-contain"
+                      />
+                    </>
                   ) : (
                     <div className="w-full h-full flex items-center justify-center bg-accent/5">
                       <Sparkles className="w-20 h-20 text-accent/20" />

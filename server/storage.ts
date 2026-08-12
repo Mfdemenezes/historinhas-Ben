@@ -57,7 +57,7 @@ class MemoryStorage implements IStorage {
       { 
         title: "Benjamin e o Cavalo do Coração Valente", 
         description: "Uma história sobre coragem e perseverança", 
-        coverImage: "/images/capa_02.png", 
+        coverImage: "/images/capa_02.jpg", 
         pages: [
           "Benjamin tinha energia de foguete. 🚀\n\nEle corria, pulava e falava rápido — e às vezes o coração dele parecia correr junto.",
           "A mamãe e o papai pensaram numa ideia:\n\n— \"Que tal aula de equitação? Os cavalos ajudam a gente a ficar mais calmo.\" 🐴",

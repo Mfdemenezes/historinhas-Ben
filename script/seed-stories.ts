@@ -34,7 +34,7 @@ Naquele dia, Benjamin aprendeu uma coisa muito importante: Nem tudo que parece b
     id: 2,
     title: "Benjamin e o Cavalo do Coração Valente",
     description: "Uma história sobre coragem e perseverança - Benjamin aprende que coragem não é nunca cair, mas levantar e continuar.",
-    coverImage: "/images/capa_02.png",
+    coverImage: "/images/capa_02.jpg",
     category: "😤 Emoções e Ansiedade",
     content: `Benjamin tinha energia de foguete. Ele corria, pulava e falava rápido — e às vezes o coração dele parecia correr junto.
 
